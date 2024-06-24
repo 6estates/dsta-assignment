@@ -39,6 +39,7 @@ pip install -r requirement.txt
 <summary> Step 3: Downloads llama2/llama3 </summary>
 
 ```bash
+# get token from https://huggingface.co/docs/hub/en/security-tokens#how-to-manage-user-access-tokens
 export TOKEN='xxxx'
 # downloads llama2
 python -c "import os; from transformers import AutoModel; AutoModel.from_pretrained('meta-llama/Llama-2-7b-chat-hf', token=os.environ['TOKEN'])"
