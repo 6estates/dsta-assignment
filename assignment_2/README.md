@@ -5,7 +5,28 @@ Let's finetune a llm!
 
 ### Requirements
 
-To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
+<details>
+<summary> Step 1: Install CUDA11.8 </summary>
+
+```bash
+wget https://raw.githubusercontent.com/TimDettmers/bitsandbytes/main/install_cuda.sh
+# replace /xxx/cuda to the correct path
+bash install_cuda.sh 118 /xxx/cuda
+
+# replace /xxx/cuda to the correct path
+# add to ~/.bashrc
+echo 'export LD_LIBRARY_PATH=/xxx/cuda/cuda-11.8/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
+echo 'export PATH=/xxx/cuda/cuda-11.8/bin:$PATH' >> ~/.bashrc
+
+# check if it is 11.8
+nvcc --version
+```
+
+</details>
+
+<br>
+
+Step 2: To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
 
 ```bash
 conda create -n assignment python=3.9
@@ -13,6 +34,18 @@ conda activate assignment
 pip install torch==2.1.0 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirement.txt
 ```
+
+<details>
+<summary> Step 3: Downloads llama2/llama3 </summary>
+
+```bash
+export TOKEN='xxxx'
+# downloads llama2
+python -c "import os; from transformers import AutoModel; AutoModel.from_pretrained('meta-llama/Llama-2-7b-chat-hf', token=os.environ['TOKEN'])"
+# downloads llama3
+python -c "import os; from transformers import AutoModel; AutoModel.from_pretrained('meta-llama/Meta-Llama-3-8B-Instruct', token=os.environ['TOKEN'])"
+```
+</details>
 
 ### Dataset
 
