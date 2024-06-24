@@ -29,8 +29,8 @@ nvcc --version
 Step 2: To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
 
 ```bash
-conda create -n assignment python=3.9
-conda activate assignment
+conda create -n assignment2 python=3.9
+conda activate assignment2
 pip install torch==2.1.0 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirement.txt
 ```
