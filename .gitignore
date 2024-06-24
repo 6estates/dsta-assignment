@@ -1,0 +1,9 @@
+.json
+.log
+.idea
+__pycache__
+.vscode
+.ipynb_checkpoint
+.pytest_cache
+model_outputs
+

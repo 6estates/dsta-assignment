@@ -1,0 +1,53 @@
+Assignment 2
+====================
+
+Let's finetune a llm!
+
+### Requirements
+
+To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
+
+```bash
+conda create -n assignment python=3.9
+conda activate assignment
+pip install torch==2.1.0 --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirement.txt
+```
+
+### Dataset
+
+The training data can be accessed from the folder `data`.
+
+### Train
+
+Parameter-Efficient finetuning Llama-3-8B-Instruct on 1 X A100 40GB GPU
+
+```bash
+# Update the OUTPUT_DIR and MODEL_PATH
+# MODEL_PATH supports "meta-llama/Meta-Llama-3-8B-Instruct" and "meta-llama/Llama-2-7b-chat-hf"
+CUDA_VISIBLE_DEVICES=0 bash finetune_lora.sh
+```
+
+Full-Parameter finetuning Llama-3-8B-Instruct on 8 X A100 40GB GPU
+
+```bash
+# Update the OUTPUT_DIR and MODEL_PATH
+# MODEL_PATH supports "meta-llama/Meta-Llama-3-8B-Instruct" and "meta-llama/Llama-2-7b-chat-hf"
+bash finetune_fft.sh
+```
+
+
+### Inference
+
+```bash
+# usage: inference.py [-h] [--model_name_or_path MODEL_NAME_OR_PATH] [--sid SID]
+
+# llm inference
+
+# optional arguments:
+#  -h, --help            show this help message and exit
+#  --model_name_or_path MODEL_NAME_OR_PATH
+#                        Name or path of the model
+#  --sid SID             ID of the sample(0 to 1662)
+CUDA_VISIBLE_DEVICES=0 python inference.py --sid 100
+```
