@@ -23,6 +23,6 @@ torchrun --rdzv-backend c10d \
   --bf16 \
   --eval_strategy steps \
   --save_strategy steps \
-  --eval_steps 5 \
+  --eval_steps 207 \
   --save_steps 207 \
   --deepspeed ds_config_fft.json
