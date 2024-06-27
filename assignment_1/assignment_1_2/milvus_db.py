@@ -198,9 +198,9 @@ class MilvusDB(BaseDB):
         return "success"
 
 
-def create_embedding(embedding_enabled, model_name='text-embedding-ada-002'):
+def create_embedding(milvus_openai_embedding_enabled, model_name='text-embedding-ada-002'):
     # milvus_openai_embedding_enabled_cv.set(False)  # for testing
-    if embedding_enabled and MILVUS_OPENAI_KEY:
+    if milvus_openai_embedding_enabled and MILVUS_OPENAI_KEY:
         embeddings = OpenAIEmbeddings(openai_api_key=MILVUS_OPENAI_KEY, model=model_name)
     else:
         embeddings = FakeEmbeddings(size=1536)
@@ -233,6 +233,7 @@ def setup_milvus_db(
 
 
 if __name__ == "__main__":
+    # try simple index building and retrieving with milvus
     from assignment_1.assignment_1_1.data_chunk import create_document_string
     import json
     import pydash
@@ -241,10 +242,7 @@ if __name__ == "__main__":
     table_name = "jsontable11"
     milvus_openai_embedding_enabled = False
 
-    if milvus_openai_embedding_enabled:
-        embeddings = OpenAIEmbeddings(openai_api_key=MILVUS_OPENAI_KEY)
-    else:
-        embeddings = FakeEmbeddings(size=1536)
+    embeddings = create_embedding(milvus_openai_embedding_enabled)
     with setup_milvus_db(
         milvus_host=MILVUS_HOST,
         milvus_port=MILVUS_PORT,
@@ -263,6 +261,6 @@ if __name__ == "__main__":
             milvus_doc.append(Document(page_content=raw_doc[: milvus_db.langchain_text_len]))
         milvus_db.insert_documents(milvus_doc)
         results = milvus_db.search(
-            query="What is the address of its registered office for RIO TINTO COMMERCIAL PTE. LTD.", top_k=3
+            query="SAMPLE QUERY", top_k=3
         )
         print(results[0])

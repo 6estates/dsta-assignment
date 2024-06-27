@@ -9,10 +9,10 @@ from env import MILVUS_HOST, MILVUS_PORT,  MILVUS_DATABASE, ES_URL
 from connexion.exceptions import BadRequestProblem
 
 
-def build_document_index(pdf_bin, table_name, converter_engine, embedding_enabled=True,
+def build_document_index(pdf_bin, table_name, converter_engine, milvus_openai_embedding_enabled=True,
                          embedding_name='text-embedding-3-large', overwrite=False):
 
-    embeddings = create_embedding(embedding_enabled, embedding_name)
+    embeddings = create_embedding(milvus_openai_embedding_enabled, embedding_name)
     try:
         with setup_hybrid_db(milvus_host=MILVUS_HOST,
                              milvus_port=MILVUS_PORT,
@@ -58,6 +58,7 @@ def build_document_index(pdf_bin, table_name, converter_engine, embedding_enable
 
 
 if __name__ == "__main__":
+    # try building index with financial statement files
     import json
     from pathlib import Path
 
