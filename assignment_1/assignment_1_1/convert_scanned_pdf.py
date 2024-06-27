@@ -1,3 +1,4 @@
+import io
 import json
 import pathlib
 import pydash
@@ -34,9 +35,10 @@ def pdf_render_page(page: fitz.Page):
     return canvas
 
 
-def ocr_transform_to_idp_format(pdf_path):
+def ocr_transform_to_idp_format(pdf_bin):
+    buf = io.BytesIO(pdf_bin)
+    doc = fitz.Document(stream=buf, filetype='pdf')
     pages = []
-    doc = fitz.open(pathlib.Path(pdf_path))
     map_type_to_names = {
         0: 'text',
         1: 'image'
@@ -52,18 +54,20 @@ def ocr_transform_to_idp_format(pdf_path):
     return {"pages": pages}
 
 
-def convert_scanned_pdf(pdf_path):
-    ocr_convert_result = ocr_transform_to_idp_format(pdf_path)
+def convert_scanned_pdf(pdf_bin):
+    ocr_convert_result = ocr_transform_to_idp_format(pdf_bin)
     text_rotation_result = final_idp_doc(ocr_convert_result)
     return text_rotation_result
 
 
 if __name__ == "__main__":
     dataset_dir = pathlib.Path(__file__).parents[1]
-    input_path = 'assignment_1_1/test data/scanned_pdf_sample.pdf'
+    input_path = 'assignment_1_1/data/scanned_pdf_sample.pdf'
     pdf_path = dataset_dir / input_path
-    save_path = 'assignment_1_1/test data/scanned_pdf_sample'
+    save_path = 'assignment_1_1/data/scanned_pdf_sample'
     test_file = dataset_dir / f'{save_path}.json'
-    result = convert_scanned_pdf(pdf_path)
+
+    pdf_bin = pdf_path.read_bytes()
+    result = convert_scanned_pdf(pdf_bin)
     with open(test_file, 'w') as f:
         json.dump(result, f, indent=2)

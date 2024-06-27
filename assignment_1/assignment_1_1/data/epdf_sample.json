@@ -62,12 +62,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b2c2afdd-f9eb-46d8-8c4d-46b6200ca029"
+              "uuid": "f09f0606-970b-4079-8484-c462d08f34c3"
             }
           ],
           "text": "Rekening Koran",
           "paragraph_id": 1,
-          "uuid": "58148364-429d-46ed-a53a-28d3f70a2a47",
+          "uuid": "d4e63ba0-2728-481c-97e2-cb9f4caa20c8",
           "confidence": 0.9
         },
         {
@@ -136,12 +136,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "dd1379cd-f27f-4734-ae0a-e6146e7620fd"
+              "uuid": "799ce6ff-84bf-4465-adbb-a5bb415a6fd6"
             }
           ],
           "text": " (Account Statement)",
           "paragraph_id": 2,
-          "uuid": "1bc48def-fb11-4025-9590-b7fcc265986d",
+          "uuid": "839e913b-e6e1-430b-8a09-389ab3ed9e7d",
           "confidence": 0.9
         },
         {
@@ -190,12 +190,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6df4ac23-b786-457c-8767-94e14c32a224"
+              "uuid": "35683ba6-1d78-4825-9b5c-0c4970eca10c"
             }
           ],
           "text": "Account No",
           "paragraph_id": 3,
-          "uuid": "488f1385-af99-45c5-84c4-e2d6a57de146",
+          "uuid": "2b986449-a964-4371-a7a6-9931f77f8883",
           "confidence": 0.9
         },
         {
@@ -240,7 +240,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "eb0e9976-8b44-4e10-8b06-0acf24629138"
+              "uuid": "0e357785-be43-4293-ad19-3c54ea338239"
             },
             {
               "bbox": [
@@ -266,12 +266,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "958cd1b6-3da1-41aa-9ec6-d3370c68f2e4"
+              "uuid": "9658916c-287a-43d1-92a1-bb385267fb4e"
             }
           ],
           "text": "Currency\nIDR",
           "paragraph_id": 4,
-          "uuid": "6a451a49-1f22-485b-ac7b-8556eca2770b",
+          "uuid": "339fcd5c-dd6a-4caf-9d0a-c6217906e960",
           "confidence": 0.9
         },
         {
@@ -302,12 +302,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "82700028-a38a-42eb-9ea3-824d5e10754f"
+              "uuid": "59b86548-d3c8-4b04-8db5-c72b8758169f"
             }
           ],
           "text": ":",
           "paragraph_id": 5,
-          "uuid": "50ad6eb5-8bf9-4fa9-8dea-2b967133dd0d",
+          "uuid": "be7bb086-d342-4c1d-be3c-7dcbcfa4616c",
           "confidence": 0.9
         },
         {
@@ -338,12 +338,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6c422f50-fd3c-4150-9996-9789de4cdb7c"
+              "uuid": "4e9423ef-6ee7-477d-865c-8d9888be8ba1"
             }
           ],
           "text": ":",
           "paragraph_id": 6,
-          "uuid": "55e6d281-17dd-4dd4-8b0a-8671aa00a420",
+          "uuid": "b67fbe79-fe7d-4703-b596-ce18030fc646",
           "confidence": 0.9
         },
         {
@@ -492,12 +492,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "ed453fad-d8ee-43af-9f9f-bc6108aa524a"
+              "uuid": "d1f69a55-392b-43f6-adff-91ce6442b7af"
             }
           ],
           "text": "1100062559999 IDR METALIK BARA SINERGI  METALIK BARA SINERGI",
           "paragraph_id": 7,
-          "uuid": "545f1845-aea4-41a7-ab82-7934fb2da4ae",
+          "uuid": "302b78bd-99ef-4a13-b3e3-6057682dd3c2",
           "confidence": 0.9
         },
         {
@@ -538,7 +538,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "a161323b-a507-405c-92f4-02bda022a754"
+              "uuid": "17ef55b1-c927-4add-ba11-c08564a1bfe8"
             },
             {
               "bbox": [
@@ -568,12 +568,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "187a5e27-3f43-4fb7-92fb-8b1ebdbd4655"
+              "uuid": "9da7efd5-af7a-4f48-b0ff-b0283754c6a4"
             }
           ],
           "text": "Branch\n00110",
           "paragraph_id": 8,
-          "uuid": "d9db48a5-c317-4f41-b6b5-fe73ae55aafb",
+          "uuid": "7c728d5e-155f-4a5d-ad28-77e6faa5d8f3",
           "confidence": 0.9
         },
         {
@@ -604,12 +604,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "96c1710f-349b-4f69-afd5-971e64c994f4"
+              "uuid": "fb7629f8-40f2-456d-9d3d-bd54711b6e64"
             }
           ],
           "text": ":",
           "paragraph_id": 9,
-          "uuid": "b6d00636-bd29-4022-bfe2-11259977b286",
+          "uuid": "4d24c9ea-766a-46d3-9f60-e62be03e430d",
           "confidence": 0.9
         },
         {
@@ -652,7 +652,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "385b6315-d870-4450-addf-7f6423ebcd23"
+              "uuid": "ba57dbd2-6026-4b58-acff-e38b48056c9b"
             },
             {
               "bbox": [
@@ -694,12 +694,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "35301161-ece6-42af-bbbe-420af9fcb9d9"
+              "uuid": "f41ef5e9-1e0b-4e75-9cd7-488e1bcf964e"
             }
           ],
           "text": "Periode\n01 Feb 2024",
           "paragraph_id": 10,
-          "uuid": "3237025a-4948-4ab6-a0cb-fed677ac4aa7",
+          "uuid": "5cecaee8-556b-469b-a89b-b1b62a8e9daf",
           "confidence": 0.9
         },
         {
@@ -730,12 +730,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "cb9a46a7-3d3b-4a00-9831-74f8230f285c"
+              "uuid": "aad415ab-0f41-403c-b14f-3417e7b05ad8"
             }
           ],
           "text": ":",
           "paragraph_id": 11,
-          "uuid": "1061b12a-c11b-4711-8bd8-7c343d8c8eba",
+          "uuid": "608fb052-7882-4570-8753-08dbc5e2dc46",
           "confidence": 0.9
         },
         {
@@ -772,12 +772,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "039fd70f-4b53-4c4d-bd66-784e32d37738"
+              "uuid": "7434844d-8bd2-458a-9a83-516b73ed80ce"
             }
           ],
           "text": "From",
           "paragraph_id": 12,
-          "uuid": "548d0c58-c221-4437-82e2-156d15ff03bd",
+          "uuid": "8d62d016-a12c-4936-a423-42495e180c25",
           "confidence": 0.9
         },
         {
@@ -810,7 +810,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "46c4d210-bd27-4776-b9d4-42c4249f8e03"
+              "uuid": "9134f6b6-4af4-4e32-a477-c89a7a1e3216"
             },
             {
               "bbox": [
@@ -852,12 +852,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "8d04f379-46c8-4fe7-b683-d032cf0ec62b"
+              "uuid": "1f1f3910-d896-41df-8c7c-f057abfb16d6"
             }
           ],
           "text": "To\n29 Feb 2024",
           "paragraph_id": 13,
-          "uuid": "bab371b4-23f6-426e-b7b5-705ab1919146",
+          "uuid": "5d94ecbc-45a8-4bf2-8e22-7e36be956441",
           "confidence": 0.9
         },
         {
@@ -916,7 +916,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "9dd9733d-ffc2-4364-b1d2-79547286e77a"
+              "uuid": "b3349c6e-9edd-478d-93ad-11cfed1a0ce8"
             },
             {
               "bbox": [
@@ -972,12 +972,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "121bcc63-3565-479e-8c35-9fe9b3eb2c55"
+              "uuid": "802b7e0c-7c3b-4114-815e-a0dbbc866b8f"
             }
           ],
           "text": "Opening Balance\n: 6,998,049,360.75",
           "paragraph_id": 14,
-          "uuid": "07f6f667-f6e9-4ac9-89df-fb9d904747e6",
+          "uuid": "04d0fdcb-664c-4b3f-996a-a418cd75453a",
           "confidence": 0.9
         },
         {
@@ -1028,7 +1028,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "8f8bf2fd-682a-4ac3-9f5a-4cca3e01a702"
+              "uuid": "20ed6ce5-023c-4f5a-a2e1-51aff9c126d2"
             },
             {
               "bbox": [
@@ -1068,7 +1068,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "c81dcd76-264e-4fd1-bbb8-81b10b326994"
+              "uuid": "5278ae06-058f-4a83-85c4-dd663c7cb16c"
             },
             {
               "bbox": [
@@ -1110,7 +1110,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "bc18468f-3472-424b-8177-95644aaa673c"
+              "uuid": "d72fb73a-c12d-43fc-be21-0b0d29301763"
             },
             {
               "bbox": [
@@ -1140,7 +1140,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "c58cb27d-d5e1-4976-9f0f-e370a8167f81"
+              "uuid": "06455cd4-7775-46bf-81b3-801167a66361"
             },
             {
               "bbox": [
@@ -1174,7 +1174,7 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "b7490842-ad74-48ff-931f-1f8aefbca926"
+              "uuid": "688e100e-5ea9-4d14-abe2-60522f192c6c"
             },
             {
               "bbox": [
@@ -1206,7 +1206,7 @@
               },
               "line_id": 6,
               "confidence": 0.9,
-              "uuid": "3a51e223-439d-49ca-a7a9-7573e8f0e641"
+              "uuid": "6ab2ebf0-7354-48c5-868e-13697dc79465"
             },
             {
               "bbox": [
@@ -1252,12 +1252,12 @@
               },
               "line_id": 7,
               "confidence": 0.9,
-              "uuid": "a6427f39-9a20-4d44-8e24-4b188591df1c"
+              "uuid": "27cac7be-8ba7-4a25-9e10-8b598192431f"
             }
           ],
           "text": "Date & Time\nValue Date\nDescription\nDebit\nBalance\nCredit\nReference No.",
           "paragraph_id": 15,
-          "uuid": "9beb93ed-135d-4d36-be6d-0b98e36ae2d0",
+          "uuid": "7b677a40-d5f4-4fb2-8201-73e128312951",
           "confidence": 0.9
         },
         {
@@ -1294,7 +1294,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "2f4a1ef3-3678-4013-ad29-c4e072fcd9f5"
+              "uuid": "c5cee57a-2706-401f-a60b-54123bdc931c"
             },
             {
               "bbox": [
@@ -1346,7 +1346,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "13583d79-183f-4073-b64d-da54dd175054"
+              "uuid": "114dab45-0335-4851-9aae-3bc9ad4cfdae"
             },
             {
               "bbox": [
@@ -1398,7 +1398,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "ba037bd7-e8e7-4174-8c41-08e7b82bccc4"
+              "uuid": "8e526a65-70a9-4840-87f0-e229dac0e5d1"
             },
             {
               "bbox": [
@@ -1438,12 +1438,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "c4aea6f6-f659-43a4-a43c-c6d46c396e9c"
+              "uuid": "e0901081-dd7f-4e8e-84d4-4745350230ca"
             }
           ],
           "text": "0.00\n2,729,239,758.00\n9,727,289,118.75\n01/02/2024",
           "paragraph_id": 16,
-          "uuid": "47a6ef21-fc5f-4d0b-bb87-d5de95f4aa0b",
+          "uuid": "e68b633b-dbf0-41f2-bdc5-bcb4c7331b4b",
           "confidence": 0.9
         },
         {
@@ -1488,12 +1488,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6e35900f-6912-4330-8e2f-da5e2c5ee4fd"
+              "uuid": "cdfcacb1-688d-4c36-a368-f97ab1f7e2b6"
             }
           ],
           "text": "15:16:10",
           "paragraph_id": 17,
-          "uuid": "b0525939-eb2d-49fe-9a4c-8cc784dd5ba3",
+          "uuid": "010eadc6-5236-4dae-9b25-710eb8e22de7",
           "confidence": 0.9
         },
         {
@@ -1542,7 +1542,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3ec1e9aa-dcd3-4844-bbd6-ff7cebd14fe4"
+              "uuid": "a74df383-9025-47c0-90f8-6b71be9d6283"
             },
             {
               "bbox": [
@@ -1600,7 +1600,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "0d728a66-968b-4df8-bbd8-3a2fcd07f326"
+              "uuid": "b59fab0e-f83e-4036-b113-b6ca907fa38c"
             },
             {
               "bbox": [
@@ -1676,7 +1676,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "4fac75d8-738b-4159-bc73-1da7bdd3a7ca"
+              "uuid": "6d1de0d1-ae55-4ce2-b41f-edb0f2c75dbb"
             },
             {
               "bbox": [
@@ -1750,7 +1750,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "f139dd42-653c-4588-a409-1ce663016b3b"
+              "uuid": "cb7cfec7-d072-49dc-a13f-edb40df30749"
             },
             {
               "bbox": [
@@ -1816,12 +1816,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "c3c70879-4f9e-4618-8c19-7313b96e4efe"
+              "uuid": "b72ed60e-2cf8-44e8-a10f-555e11fdb2c0"
             }
           ],
           "text": "01/02/2024\n004B/SSKB Coal/MBS-\nMCM InhouseTrf  DARI SEMESTA\nANDALAN ENERGI Transfer Fee\n20240201143694122899102",
           "paragraph_id": 18,
-          "uuid": "64328e0b-9300-4c07-861a-7248fd063124",
+          "uuid": "57cb8349-d526-43d4-a8dd-a09026786d07",
           "confidence": 0.9
         },
         {
@@ -1852,12 +1852,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "e7fe9c0d-a0a6-4328-8ef7-9c47ea10e1c7"
+              "uuid": "0f550131-0d56-4d35-9c5c-78c0ec0ad9a4"
             }
           ],
           "text": "-",
           "paragraph_id": 19,
-          "uuid": "fd1a90c9-41e8-4e4e-862e-692ed713d473",
+          "uuid": "e798f5ec-ead5-45c7-9261-bf23bf1f4b16",
           "confidence": 0.9
         },
         {
@@ -1894,7 +1894,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "651fcc1c-8590-4e84-bd1a-e9f6a64596dd"
+              "uuid": "49ae09b2-c64f-4e91-bf6d-45a5a639d998"
             },
             {
               "bbox": [
@@ -1946,7 +1946,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "38e913ee-1bee-476d-b45f-5357d0738c5b"
+              "uuid": "ec35b46f-f38b-42f3-9737-4c8676f93eaf"
             },
             {
               "bbox": [
@@ -2000,7 +2000,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "23b7ea58-341a-4d10-9450-4d06c7203350"
+              "uuid": "9017f686-49c9-4e65-a97e-33488721d37c"
             },
             {
               "bbox": [
@@ -2040,12 +2040,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "b42ec2ff-ed6a-4808-bdfb-0e973ba84b1c"
+              "uuid": "62d56d7b-61ac-40c7-86d3-aaa8ffcf6139"
             }
           ],
           "text": "0.00\n2,433,783,271.00\n12,161,072,389.75\n01/02/2024",
           "paragraph_id": 20,
-          "uuid": "f38b92f9-dc15-4d1c-aad0-4051d16499f0",
+          "uuid": "63944509-0857-4464-bf6e-f73395f53d0c",
           "confidence": 0.9
         },
         {
@@ -2090,12 +2090,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3238329e-d8cd-442a-b647-2efbfd24a6a8"
+              "uuid": "9c46201f-f093-46b9-a55f-54d940619353"
             }
           ],
           "text": "16:48:04",
           "paragraph_id": 21,
-          "uuid": "68d38345-0681-42b7-bb7d-21334ca55b7c",
+          "uuid": "620cc0cf-3e80-45d3-a042-19b80a3a7215",
           "confidence": 0.9
         },
         {
@@ -2144,7 +2144,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6bd428df-0e33-4056-ac05-e283aa9c5bd3"
+              "uuid": "4637b037-b4c6-4a05-a53b-15bb5bf8d886"
             },
             {
               "bbox": [
@@ -2286,7 +2286,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "832d5167-9662-46ce-9105-9d9ae3896bdf"
+              "uuid": "14ed81c5-ada2-4fa5-aa17-6e6a38cda814"
             },
             {
               "bbox": [
@@ -2360,7 +2360,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "f9259f0a-2d6d-4220-b99b-3e77f0678c3a"
+              "uuid": "d2a9841b-fd45-4f29-8eb0-55ab48cd4178"
             },
             {
               "bbox": [
@@ -2434,7 +2434,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "0510c983-f6f4-48aa-9f47-f4d62fa536f7"
+              "uuid": "b1a66473-ac35-4043-899c-64c2f511379f"
             },
             {
               "bbox": [
@@ -2500,12 +2500,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "14501f20-296c-43c2-b8c6-19baf215a6aa"
+              "uuid": "6a16c165-a436-4cc9-bbc2-b060eaaeabe9"
             }
           ],
           "text": "01/02/2024\n                                                             \nMCM InhouseTrf  DARI ENERGI\nSUKSES ANDALAN Transfer Fee\n20240201163159879499102",
           "paragraph_id": 22,
-          "uuid": "48a8cf14-b7e9-4a82-9354-679cfa5f3d72",
+          "uuid": "01876cb5-dec1-48a7-9844-5a1dec45de32",
           "confidence": 0.9
         },
         {
@@ -2536,12 +2536,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "0e8b0410-a548-46b2-8572-1dc93383316d"
+              "uuid": "32cadebf-ab57-4f80-841a-ba2be6c38a45"
             }
           ],
           "text": "-",
           "paragraph_id": 23,
-          "uuid": "b213dcbd-8d09-4852-a1e1-2d7e23b86fad",
+          "uuid": "ead956b7-4119-4f3d-ba30-72e47b3a12db",
           "confidence": 0.9
         },
         {
@@ -2578,7 +2578,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "cd832449-47d4-4772-87c3-82c7e001e543"
+              "uuid": "57b58182-7a7f-47ea-9138-780580509e06"
             },
             {
               "bbox": [
@@ -2630,7 +2630,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "2fd14080-75cc-4588-855d-1906193a3bf2"
+              "uuid": "1aa36ff7-d468-4051-bf71-9eba6996eae6"
             },
             {
               "bbox": [
@@ -2684,7 +2684,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "a3a0fc53-ca2b-4c6a-b9ce-a79227d5a1bb"
+              "uuid": "66e09956-820e-4028-a7bc-343e61821c12"
             },
             {
               "bbox": [
@@ -2724,12 +2724,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "6be91ac9-14e5-4333-b6ea-ba9d3e20bd94"
+              "uuid": "a0bebae1-bdd8-4e51-9fe0-8b41d5f426b5"
             }
           ],
           "text": "0.00\n2,566,406,250.00\n14,727,478,639.75\n01/02/2024",
           "paragraph_id": 24,
-          "uuid": "4acef4d6-f86d-4fca-bd14-2b08f1583b93",
+          "uuid": "9f22ddaf-61e5-4b75-be69-7bdb2118b5f3",
           "confidence": 0.9
         },
         {
@@ -2774,12 +2774,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b2222975-cd83-460b-80e6-b0aab42f833d"
+              "uuid": "a5ca45d7-36f7-4b74-9c1d-0dee2b9c9c40"
             }
           ],
           "text": "17:19:10",
           "paragraph_id": 25,
-          "uuid": "7d697d03-7cc2-4bba-8703-21dae54e75b4",
+          "uuid": "7281db0d-79fd-481e-bc47-85581d4816ce",
           "confidence": 0.9
         },
         {
@@ -2828,7 +2828,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "58efca89-adbc-4d94-bf0e-23ea1f8edc78"
+              "uuid": "a189b471-8696-4395-80fb-88f6760e6362"
             },
             {
               "bbox": [
@@ -2970,7 +2970,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "695074c1-cde2-46d2-924e-cbfc33c66ddc"
+              "uuid": "05764aa5-1ab7-44c0-91a0-8ce306c5d632"
             },
             {
               "bbox": [
@@ -3044,7 +3044,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "8c06b0e7-7bc7-415c-8947-ef4bc79f7d0c"
+              "uuid": "2a4bdb70-d845-4eae-81a3-16f5b40807b2"
             },
             {
               "bbox": [
@@ -3118,7 +3118,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "8b2dc693-0db7-495a-ba69-c22f3b341d20"
+              "uuid": "221361b5-bdef-4d57-8ef0-f09c7998eea5"
             },
             {
               "bbox": [
@@ -3184,12 +3184,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "3591e454-8014-48ef-864a-8d661f65bec1"
+              "uuid": "348ebab9-8aa1-41ae-922a-1e6bd0ae2e02"
             }
           ],
           "text": "01/02/2024\n                                                             \nMCM InhouseTrf  DARI ENERGI\nSUKSES ANDALAN Transfer Fee\n20240201171264347999102",
           "paragraph_id": 26,
-          "uuid": "477ebcc6-7f74-4d29-bde5-a6998f8dd89e",
+          "uuid": "92ceffd3-80d6-4786-b510-d4382e4e1090",
           "confidence": 0.9
         },
         {
@@ -3220,12 +3220,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "bf0f9707-92f2-4a40-91cf-d7596677a3d0"
+              "uuid": "180e0dbf-063c-4354-9b92-f015752ccf2e"
             }
           ],
           "text": "-",
           "paragraph_id": 27,
-          "uuid": "14b38f92-e66a-42a1-bf8d-831ee041009c",
+          "uuid": "aef88625-250d-42ab-a741-d56eb5cf8d9b",
           "confidence": 0.9
         },
         {
@@ -3286,7 +3286,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "fd0a8906-8325-4f96-bd29-d91330e2e5e8"
+              "uuid": "cc7a279f-4058-4716-8c57-d43b2ad0f719"
             },
             {
               "bbox": [
@@ -3314,7 +3314,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "f0bd7e7b-1366-4dac-835f-9fdfb933fb02"
+              "uuid": "eb782fcd-d1dc-4089-9cf1-fcd366c5b338"
             },
             {
               "bbox": [
@@ -3368,7 +3368,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "253aff77-783c-4fa6-a3b5-cb2056a3580d"
+              "uuid": "41542b28-2047-469f-aa70-3e459e645bd3"
             },
             {
               "bbox": [
@@ -3408,12 +3408,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "fcf6835d-f1d0-4cd7-80e6-bd8d94b19d95"
+              "uuid": "1be5664f-4cc4-43f4-8d64-4d4cecd76a26"
             }
           ],
           "text": "4,000,000,000.00\n0.00\n10,727,478,639.75\n02/02/2024",
           "paragraph_id": 28,
-          "uuid": "5c23f78c-3440-40c0-9a36-59d548d24088",
+          "uuid": "51cf5c30-6f8e-47c6-9729-b2b12552a425",
           "confidence": 0.9
         },
         {
@@ -3458,12 +3458,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3f5e253f-b47a-4748-ad7b-d92d7c112325"
+              "uuid": "08fb9e6e-0c0c-4be3-8107-32f03e1b5c4b"
             }
           ],
           "text": "10:54:21",
           "paragraph_id": 29,
-          "uuid": "7d7763b9-0f81-44c6-b154-ecc32620ea48",
+          "uuid": "fc272457-e74e-4aba-ba6f-cd17e4192923",
           "confidence": 0.9
         },
         {
@@ -3512,7 +3512,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "bbacebd6-7148-443f-89db-c0c1bd053ae5"
+              "uuid": "97c3b593-b56b-49c2-8b9d-37bfa4535287"
             },
             {
               "bbox": [
@@ -3572,7 +3572,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "eeb81635-39e1-4770-ba31-927ab2175bcd"
+              "uuid": "ec9fce80-124c-4440-850c-91e23f61a70d"
             },
             {
               "bbox": [
@@ -3654,7 +3654,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "6337de1a-09cd-47a6-9f88-90d398b4564a"
+              "uuid": "4a44a37e-357d-4089-b013-b45540ef0307"
             },
             {
               "bbox": [
@@ -3714,7 +3714,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "98dffe97-5cd4-45c5-a0f3-931cf29eff4f"
+              "uuid": "9d8b853e-569c-42b8-a206-03040de888f0"
             },
             {
               "bbox": [
@@ -3780,12 +3780,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "c66c445e-3837-4ae1-9f08-abe9a00d1c1c"
+              "uuid": "5148e983-18e5-406e-af5c-704ecb7cc1ef"
             }
           ],
           "text": "02/02/2024\nPindah Buku 999K 2.1\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240202104798234999102",
           "paragraph_id": 30,
-          "uuid": "88449655-c67c-4779-89b8-fd2365a68698",
+          "uuid": "e36c4495-4805-40a4-ac8e-2fe7e0b9cfab",
           "confidence": 0.9
         },
         {
@@ -3816,12 +3816,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "acb25316-bba4-402a-abc2-32ba59026e1c"
+              "uuid": "fb4db792-ea7a-442c-965d-3c401e000711"
             }
           ],
           "text": "-",
           "paragraph_id": 31,
-          "uuid": "c20922e5-99b9-42df-aae4-0dfc4969dc30",
+          "uuid": "6a8c0dd2-5ad7-4b37-8dfe-f32457659bbf",
           "confidence": 0.9
         },
         {
@@ -3882,7 +3882,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3b3e28d3-20f2-4ec5-807b-c35e802d58d2"
+              "uuid": "eb835b1a-1100-4737-9664-e1b32c2cab36"
             },
             {
               "bbox": [
@@ -3910,7 +3910,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "324b31d9-a6df-448d-ab46-a36c2f9ebf8b"
+              "uuid": "ab2655bd-a762-4522-bef7-a933983093ef"
             },
             {
               "bbox": [
@@ -3962,7 +3962,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "7b1ea5d5-01cd-454a-b06d-f84f99619243"
+              "uuid": "2b0b1c1e-3d9c-413c-853f-8bc1675b7b93"
             },
             {
               "bbox": [
@@ -4002,12 +4002,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "c6684c34-b699-4572-8ac8-2eca6576c7cd"
+              "uuid": "0e14f630-7b96-44d8-a0ab-6bf4763fccf1"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n9,727,478,639.75\n09/02/2024",
           "paragraph_id": 32,
-          "uuid": "32779bf1-6363-4c21-a293-1b5e0b9c6143",
+          "uuid": "98514e92-8e34-49aa-a969-fa699a76bccd",
           "confidence": 0.9
         },
         {
@@ -4052,12 +4052,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "31841065-7308-41ba-a9de-ccae75159eac"
+              "uuid": "0180ce42-ff24-4c2c-90b1-61f0347e38fa"
             }
           ],
           "text": "13:57:11",
           "paragraph_id": 33,
-          "uuid": "bc98459c-f9d5-4214-9ee6-c3ef1752e6f8",
+          "uuid": "13dc42fe-4309-47c8-b9ca-20d901436db8",
           "confidence": 0.9
         },
         {
@@ -4106,7 +4106,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "4c51345f-a9fd-401d-8718-59414d23e7da"
+              "uuid": "ccfb156b-b12a-42e0-9ae6-85e2312c2cbf"
             },
             {
               "bbox": [
@@ -4166,7 +4166,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "6cf6696a-4659-48d1-9098-3e139081cd9a"
+              "uuid": "56514ca3-9a96-49ef-9052-87be393de099"
             },
             {
               "bbox": [
@@ -4248,7 +4248,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "14a85de6-e60b-4e43-9bff-a28d8b9c67cf"
+              "uuid": "f1e40fbb-2144-4834-a351-c172836a39b7"
             },
             {
               "bbox": [
@@ -4308,7 +4308,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "c855e910-fb92-47a6-aa25-f87fe6e859a4"
+              "uuid": "3bc0cee0-5af8-4501-a057-4db828945ef1"
             },
             {
               "bbox": [
@@ -4374,12 +4374,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "2cd29623-9313-463b-8b1a-7615c5e3abe5"
+              "uuid": "8bcab80a-af16-4e07-826e-858d6603f92f"
             }
           ],
           "text": "09/02/2024\nPindah Buku 2418 2.1\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240209122477714599102",
           "paragraph_id": 34,
-          "uuid": "b3403c43-f3fe-4ca7-b0ae-e52262ce4aa9",
+          "uuid": "99aba2e5-b127-4432-a8d6-f03b41d15518",
           "confidence": 0.9
         },
         {
@@ -4410,12 +4410,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "2612273f-16db-41bf-8676-ecc4c00d09b0"
+              "uuid": "9c94386a-7f58-4403-be08-9c3cca253bc5"
             }
           ],
           "text": "-",
           "paragraph_id": 35,
-          "uuid": "299c4f77-8e96-427c-b591-f3010bf33e81",
+          "uuid": "1c784fce-a051-43bc-b037-74abd8f6dc9f",
           "confidence": 0.9
         },
         {
@@ -4476,7 +4476,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "4c564370-5c85-4771-a5e4-cec137174373"
+              "uuid": "a016e83f-8a6f-4670-be8f-1916de53530a"
             },
             {
               "bbox": [
@@ -4504,7 +4504,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "a0dc4132-6f3a-4306-98d0-705ae4b91dfb"
+              "uuid": "7a4604b1-7bec-43eb-a53a-33daca908555"
             },
             {
               "bbox": [
@@ -4556,7 +4556,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "a4213269-9013-47ce-958d-66f0feb2d3ba"
+              "uuid": "4f6107c3-31a0-4056-a090-071ffa576c79"
             },
             {
               "bbox": [
@@ -4596,12 +4596,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "798751a9-f9ab-4b14-bc7b-4276770fe814"
+              "uuid": "91475506-b28b-4c05-9d89-443081f9e355"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n8,727,478,639.75\n09/02/2024",
           "paragraph_id": 36,
-          "uuid": "7c4d1696-bd01-4eef-97e9-090fb717f69a",
+          "uuid": "e1a4bbb8-2869-4751-ae16-b23488f5b511",
           "confidence": 0.9
         },
         {
@@ -4646,12 +4646,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "51b5fe40-a324-4edb-9b6e-33bbd450ecbe"
+              "uuid": "26396030-4cd8-4fcd-bed0-684ad4854cb4"
             }
           ],
           "text": "13:57:15",
           "paragraph_id": 37,
-          "uuid": "1f887df2-3709-4d60-a02b-dec3bec4f178",
+          "uuid": "0ed56f41-ec9f-45e0-908e-c437bd842766",
           "confidence": 0.9
         },
         {
@@ -4700,7 +4700,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "fe5c3761-4771-41ff-956c-b8b68aa2fddc"
+              "uuid": "84d657c3-e36a-4c7f-b998-8efb2df05725"
             },
             {
               "bbox": [
@@ -4760,7 +4760,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "ca02d747-64ab-4086-aec1-25b6c58dff5a"
+              "uuid": "ea63e05d-4f50-4ed0-8c33-8aef3684df43"
             },
             {
               "bbox": [
@@ -4842,7 +4842,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "ffb6bd05-ce56-45ef-86cd-5a5bc37b8f3b"
+              "uuid": "b7de9261-e216-4f65-959f-0f9c8195d933"
             },
             {
               "bbox": [
@@ -4902,7 +4902,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "1e4c35ee-453d-431b-b8ab-2197183c7ac4"
+              "uuid": "cd3ab7af-ebb3-4a2c-828d-b98658816679"
             },
             {
               "bbox": [
@@ -4968,12 +4968,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "4c6ea627-d0da-4f87-862a-48f95a5659e9"
+              "uuid": "361a6637-99af-48d5-8ad5-a4ca38964474"
             }
           ],
           "text": "09/02/2024\nPindah Buku 4540 2.1\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240209122478387299102",
           "paragraph_id": 38,
-          "uuid": "a37736bf-ac51-43cd-9bd5-fff99ff75b77",
+          "uuid": "f914d668-1896-4d9a-a30d-43bd62c11fdf",
           "confidence": 0.9
         },
         {
@@ -5004,12 +5004,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "7f810eb5-c698-46d6-865a-4ecd6e52e59b"
+              "uuid": "317db906-9704-4795-9da7-5729165b745a"
             }
           ],
           "text": "-",
           "paragraph_id": 39,
-          "uuid": "7b172dd6-3da4-4f9e-8bdf-6c4344569691",
+          "uuid": "1cac3890-d6fc-4dfc-95ad-c2d5a508d340",
           "confidence": 0.9
         },
         {
@@ -5070,7 +5070,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "2b49c907-f9b2-421b-90cf-d8fd3871bf65"
+              "uuid": "22fde9cd-1790-40eb-a67d-e83edf6edac3"
             },
             {
               "bbox": [
@@ -5098,7 +5098,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "e2210012-7225-4797-817b-dbed316aa7dc"
+              "uuid": "aabd3e5c-5026-4d4c-ac74-53dbcba70bf1"
             },
             {
               "bbox": [
@@ -5150,7 +5150,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "57b99de5-4691-4e91-9ac4-8f93015afdd2"
+              "uuid": "81390af2-3ab6-4642-a116-c8981ec6da6a"
             },
             {
               "bbox": [
@@ -5190,12 +5190,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "aa300d4c-fa03-46e9-9096-0fd87bab8702"
+              "uuid": "dacca456-3d48-401d-97db-8c100c28b343"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n7,727,478,639.75\n12/02/2024",
           "paragraph_id": 40,
-          "uuid": "0d8f2931-da5e-40dc-aeb3-5b6e8a68cd59",
+          "uuid": "081f8413-f794-428f-85fa-3218b48654f3",
           "confidence": 0.9
         },
         {
@@ -5240,12 +5240,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "cc74407f-f77a-4933-b5e3-cf98402942bc"
+              "uuid": "64a4244c-767b-4e66-ae2d-1ebf6779a95d"
             }
           ],
           "text": "15:04:12",
           "paragraph_id": 41,
-          "uuid": "64cae164-da41-4ab2-9c02-475a150c420f",
+          "uuid": "1817795a-d543-4608-893c-ae568c427f0c",
           "confidence": 0.9
         },
         {
@@ -5294,7 +5294,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "af4f294a-b928-490a-a53a-9c3d8fb86098"
+              "uuid": "591b4424-a123-4331-9a01-df99fa063bc8"
             },
             {
               "bbox": [
@@ -5366,7 +5366,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "0bbf76ca-abac-4724-aeae-f88c02252122"
+              "uuid": "d4570fdf-afde-4f19-8735-326b26cd7ef4"
             },
             {
               "bbox": [
@@ -5452,7 +5452,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "39a09802-a780-4a55-b6f0-e5ac6055e968"
+              "uuid": "1bf1ba55-274b-4c8c-a96b-d17c30bcca94"
             },
             {
               "bbox": [
@@ -5498,12 +5498,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "23081b1e-4ac4-4ab7-aba2-fe556c19cfe8"
+              "uuid": "c7de0428-25cc-46e7-8b18-50a7f46f1868"
             }
           ],
           "text": "12/02/2024\nCK 233297-PINBUK UNTUK BOD\nTransfer 00233297 KE METALIK BARA\nSINERGI 11002",
           "paragraph_id": 42,
-          "uuid": "e2d5591c-98e0-49e5-bf2b-a1711f41fcfc",
+          "uuid": "7c1b89b9-df84-4e7e-920c-cac0f23966af",
           "confidence": 0.9
         },
         {
@@ -5534,12 +5534,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b07aba38-e963-496d-857b-63d84690a6c4"
+              "uuid": "7aa1deed-955a-46a8-8163-1921d187be48"
             }
           ],
           "text": "-",
           "paragraph_id": 43,
-          "uuid": "aec4b58f-5f06-493e-9c12-abb01474d3e0",
+          "uuid": "1a71a94b-8db3-486f-a052-fb39e5628653",
           "confidence": 0.9
         },
         {
@@ -5576,7 +5576,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "5f729c62-4dd1-4b1d-b56c-b0f0274dda7f"
+              "uuid": "6f5f1578-3339-44e7-92e0-7d0ae48cede2"
             },
             {
               "bbox": [
@@ -5628,7 +5628,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "ded5ecb5-6851-4847-81f6-84f5a81e8d59"
+              "uuid": "334e89ec-44d3-48d7-b5c7-231961b91b85"
             },
             {
               "bbox": [
@@ -5682,7 +5682,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "c038edf8-1abe-4118-bb9c-e8b682485bee"
+              "uuid": "1ee5eaeb-16da-4162-b630-da0d7175df14"
             },
             {
               "bbox": [
@@ -5722,12 +5722,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "89212a0c-4f77-4f99-87d7-511f6349636b"
+              "uuid": "00191ebe-07c4-4c14-8da2-e2c5c3c0121a"
             }
           ],
           "text": "0.00\n2,606,100,000.00\n10,333,578,639.75\n13/02/2024",
           "paragraph_id": 44,
-          "uuid": "7a0f3312-9dad-43af-bf7e-ecbf886faaff",
+          "uuid": "d476b111-148d-428d-aaf6-70fb4e50e815",
           "confidence": 0.9
         },
         {
@@ -5772,12 +5772,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b5b9424a-c0e9-43af-ba17-e475e6034b19"
+              "uuid": "b5a72463-c6a4-4c98-b88d-d9dde562d0c5"
             }
           ],
           "text": "14:57:40",
           "paragraph_id": 45,
-          "uuid": "ba70f251-fb2b-4c74-9664-f42746e0af54",
+          "uuid": "81adb4a8-ffcd-4b85-a4ff-e4f8ec6bd605",
           "confidence": 0.9
         },
         {
@@ -5826,7 +5826,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d1625eaa-c7e3-4913-a4d9-ceec1037ffea"
+              "uuid": "76b153d3-528b-46a2-8778-12e297ce0cb1"
             },
             {
               "bbox": [
@@ -5968,7 +5968,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "e8ad2902-1de0-4c1a-9201-13f6d3408746"
+              "uuid": "220a2325-d376-4fc5-994e-7e448e032fef"
             },
             {
               "bbox": [
@@ -6042,7 +6042,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "35599ebb-f67f-4963-81ab-aa1c5d9c88b0"
+              "uuid": "6cf20587-99dd-411a-befc-c6ff46144089"
             },
             {
               "bbox": [
@@ -6116,7 +6116,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "220fe0b2-10fd-4917-bba9-714b28e72c56"
+              "uuid": "0094214d-28fa-4489-a061-8876c29a9b66"
             },
             {
               "bbox": [
@@ -6182,12 +6182,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "88004a30-88bd-460a-b554-a2a8bdb34d66"
+              "uuid": "ece53b4f-c39a-414b-bc54-13a2d7479651"
             }
           ],
           "text": "13/02/2024\n                                                             \nMCM InhouseTrf  DARI ENERGI\nSUKSES ANDALAN Transfer Fee\n20240213144962735499102",
           "paragraph_id": 46,
-          "uuid": "4f9dc77f-b0a2-4ab0-8d65-0a549a6c00a2",
+          "uuid": "fd166cbe-0216-4056-94ac-34d6fc2f3830",
           "confidence": 0.9
         },
         {
@@ -6218,12 +6218,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "31315d38-8325-47cc-b4ad-ffb7a5cb5075"
+              "uuid": "eb9e3ef3-113f-4710-9d44-5f571eee6c64"
             }
           ],
           "text": "-",
           "paragraph_id": 47,
-          "uuid": "1b1b1a70-5672-4839-b9ef-1c6050d3dc94",
+          "uuid": "1c20c11d-5bf1-45b8-a98f-75a9793e34ae",
           "confidence": 0.9
         },
         {
@@ -6260,7 +6260,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "0ac09fbc-4870-4fda-af13-071b20dc3b51"
+              "uuid": "013d7ff7-7872-490c-a075-af65eaa32da6"
             },
             {
               "bbox": [
@@ -6312,7 +6312,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "c00948d6-4c47-44ef-bb0e-deb6627785b1"
+              "uuid": "38280dc9-86c1-4026-9be9-8d6b35e4f39a"
             },
             {
               "bbox": [
@@ -6366,7 +6366,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "e9a9be55-d7d1-4e58-9bc6-53bfa30068c4"
+              "uuid": "a465f5b7-c350-4550-8489-48de79cc7eaa"
             },
             {
               "bbox": [
@@ -6406,12 +6406,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "724f3bed-3aa3-4037-bbc1-e95ac6a2493a"
+              "uuid": "02355cb3-8e92-4c0c-9284-5b4878e8f37e"
             }
           ],
           "text": "0.00\n2,467,818,061.00\n12,801,396,700.75\n13/02/2024",
           "paragraph_id": 48,
-          "uuid": "527b4909-5497-4798-ad42-c8aa9301708e",
+          "uuid": "c8144051-bf3e-4d74-a348-41ae21f0fbfe",
           "confidence": 0.9
         },
         {
@@ -6456,12 +6456,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "99dcf160-4690-48ae-b395-210f05d88782"
+              "uuid": "e2d0eaeb-d918-401b-83fd-b33b74aa8494"
             }
           ],
           "text": "19:21:58",
           "paragraph_id": 49,
-          "uuid": "f5c2d34e-6c80-4602-8dd5-5085949ff357",
+          "uuid": "8a17891b-0953-46da-9a26-54ba436f786f",
           "confidence": 0.9
         },
         {
@@ -6510,7 +6510,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "0ba0792e-ad4e-46d6-b985-948cb07bd00f"
+              "uuid": "64698903-dc72-423b-b32e-3635e59b05c6"
             },
             {
               "bbox": [
@@ -6652,7 +6652,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "c9b24782-917c-4e3e-bbc7-175c0be12579"
+              "uuid": "b667e29a-8cec-4c41-9356-4bb429896171"
             },
             {
               "bbox": [
@@ -6726,7 +6726,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "80426f34-8f23-453f-9ef1-4b0c81815d22"
+              "uuid": "51ce0af0-9d58-4340-b28d-bfed7294f295"
             },
             {
               "bbox": [
@@ -6800,7 +6800,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "9b40fe6e-32bf-4195-99a0-268857cde660"
+              "uuid": "2fa02d62-eac1-48dd-8f1d-03a87b11c026"
             },
             {
               "bbox": [
@@ -6866,12 +6866,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "091f3673-880e-4657-89cb-720dc8760936"
+              "uuid": "12bccb94-98cf-4795-a4d4-ef69164e879c"
             }
           ],
           "text": "13/02/2024\n                                                             \nMCM InhouseTrf  DARI ENERGI\nSUKSES ANDALAN Transfer Fee\n20240213191086333699102",
           "paragraph_id": 50,
-          "uuid": "43f51906-e2c7-4184-b749-bd7d9f9eaa3e",
+          "uuid": "1f599ffa-ec20-4261-9969-edbf74a55b6b",
           "confidence": 0.9
         },
         {
@@ -6902,12 +6902,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "cd124e30-e403-4a2e-bd0a-b1fc6264cd6a"
+              "uuid": "7f8886b1-e930-4cef-aabc-f603340245a9"
             }
           ],
           "text": "-",
           "paragraph_id": 51,
-          "uuid": "917d1d20-f5e0-496b-89b1-a66044371659",
+          "uuid": "46b378d2-e5fd-4418-8a90-859c04e7566a",
           "confidence": 0.9
         },
         {
@@ -6944,7 +6944,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d74dc496-b7c5-4816-8990-ee816c55bbe4"
+              "uuid": "8c47bd5b-7eda-42ff-86a7-89ea5f54e700"
             },
             {
               "bbox": [
@@ -6996,7 +6996,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "966b296e-050a-489e-bab8-7bece597c86e"
+              "uuid": "81e157a6-bfdb-445d-aace-82d8584aee49"
             },
             {
               "bbox": [
@@ -7050,7 +7050,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "ffc3b175-59a4-4621-a879-f43f58691642"
+              "uuid": "4e1dc047-e739-4bfb-8a72-8304463f25e5"
             },
             {
               "bbox": [
@@ -7090,12 +7090,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "ed7a9312-d5e2-4844-ae56-6794f70ee82d"
+              "uuid": "5e77435f-059d-4c83-8410-da72839d5dc2"
             }
           ],
           "text": "0.00\n2,669,062,500.00\n15,470,459,200.75\n16/02/2024",
           "paragraph_id": 52,
-          "uuid": "c76a3409-9008-4c47-b551-f08164466dc4",
+          "uuid": "9fdc9f5b-7bb5-4ebe-98df-f572a42c38de",
           "confidence": 0.9
         },
         {
@@ -7140,12 +7140,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "4272fbb2-c2aa-49cb-b50f-c76576c2fbbd"
+              "uuid": "5583c042-4f7c-4113-a790-381a324ae57c"
             }
           ],
           "text": "11:39:37",
           "paragraph_id": 53,
-          "uuid": "5c15f4ae-8ed9-4eb5-8472-34076916eeb7",
+          "uuid": "7b090265-2e75-4c98-a8ab-c83d2793fdaf",
           "confidence": 0.9
         },
         {
@@ -7194,7 +7194,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "4b171323-3882-4bdc-992e-aa496be41bd7"
+              "uuid": "46799be9-9335-40c5-b1b9-5f67eecce5b1"
             },
             {
               "bbox": [
@@ -7252,7 +7252,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "529c41ee-158e-484c-8146-d853f010e2cd"
+              "uuid": "713a6cda-ee0b-4f84-9504-8e1f7030f545"
             },
             {
               "bbox": [
@@ -7328,7 +7328,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "5fbac797-a979-4c3b-ba00-ce24cb159c4c"
+              "uuid": "929d4beb-8d32-493b-bf2f-a7d580ddea1c"
             },
             {
               "bbox": [
@@ -7402,7 +7402,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "48865d96-ad15-4f66-9b2f-e280191f6d4f"
+              "uuid": "710bc95a-8db9-40e4-a4a6-e0209d806726"
             },
             {
               "bbox": [
@@ -7468,12 +7468,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "b1d80819-1d1b-4622-9f79-e6e0d207471d"
+              "uuid": "6dacf68a-4dca-4867-abe9-c33b8ec9dfd1"
             }
           ],
           "text": "16/02/2024\n006A/SSKB Coal/MBS-\nMCM InhouseTrf  DARI SEMESTA\nANDALAN ENERGI Transfer Fee\n20240216113767576399102",
           "paragraph_id": 54,
-          "uuid": "d483f90e-663c-4a56-a188-a9dafe184edb",
+          "uuid": "51e6158f-d5da-47fa-b349-12adf95b8f06",
           "confidence": 0.9
         },
         {
@@ -7504,12 +7504,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "883d7c47-1966-42d1-9999-6418f22c39fa"
+              "uuid": "8cf88f99-6389-46ca-9ca7-b7cc5b2e1fb1"
             }
           ],
           "text": "-",
           "paragraph_id": 55,
-          "uuid": "bb4052f8-6c9d-45fe-a508-a59ac709e736",
+          "uuid": "9cbaff01-e76d-484d-8a81-03c9ae60d991",
           "confidence": 0.9
         },
         {
@@ -7546,7 +7546,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "842bb2ad-c8e3-4b63-9c51-38e87e6025b4"
+              "uuid": "eb7dd8b4-182b-46af-abb8-7777c599f066"
             },
             {
               "bbox": [
@@ -7594,7 +7594,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "caf84788-2c1d-4d27-8d45-b4d4ca879548"
+              "uuid": "c16e9dfe-03df-4b72-ab2b-07b2e0351678"
             },
             {
               "bbox": [
@@ -7648,7 +7648,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "82529a71-1c06-4344-848a-bd4661624976"
+              "uuid": "a852d75a-02ce-4687-8a6e-8823577cdec9"
             },
             {
               "bbox": [
@@ -7688,12 +7688,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "81b617d7-fd39-4260-aeb6-2a94be421c0a"
+              "uuid": "040ba84f-d827-4947-aa37-9751f8098297"
             }
           ],
           "text": "0.00\n500,000,000.00\n15,970,459,200.75\n17/02/2024",
           "paragraph_id": 56,
-          "uuid": "5d3e17fc-3761-4784-a98a-83c22d528958",
+          "uuid": "d402b29c-d60e-4edb-870b-1a0aad89e872",
           "confidence": 0.9
         },
         {
@@ -7738,12 +7738,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "8bcc28cc-75ff-41bf-bb22-9ff0f2c50383"
+              "uuid": "e833af84-8614-43a0-82e5-beda0c7f16f2"
             }
           ],
           "text": "11:20:28",
           "paragraph_id": 57,
-          "uuid": "aa2b0f21-e3f3-4bcf-a264-fd854b3440f3",
+          "uuid": "19a2d3d3-8c0d-4d6c-97da-d68f1bbd29cd",
           "confidence": 0.9
         },
         {
@@ -7792,7 +7792,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "2d1f4ce8-6bf8-4d60-9979-48843712bc55"
+              "uuid": "46a8053c-271c-4f90-8b65-36c335af429e"
             },
             {
               "bbox": [
@@ -7850,7 +7850,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "0a8fc0a1-a740-415d-8e0a-5269622e5054"
+              "uuid": "d6cfd486-9b45-4d96-be33-bff7ef700e36"
             },
             {
               "bbox": [
@@ -7936,7 +7936,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "7ee77c74-3ffe-4ce1-8d7d-0e487b6ea4c2"
+              "uuid": "18982265-9016-419d-8ddf-467abd04a0c2"
             },
             {
               "bbox": [
@@ -8034,7 +8034,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "7753cf90-b4e7-4e44-b473-8f467057d793"
+              "uuid": "a3571226-8e5f-4e26-b6bd-5d02f4447bc2"
             },
             {
               "bbox": [
@@ -8080,12 +8080,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "95fe0822-5766-4ab4-bb25-4a36ba760d5f"
+              "uuid": "989db1b0-a244-437f-9102-f72d21feea84"
             }
           ],
           "text": "17/02/2024\nPinbuk MBS 999K 2.2\nMCM InhouseTrf  DARI METALIK BARA\nSINERGI Transfer Fee         Pinbuk MBS\n999K 2.299102",
           "paragraph_id": 58,
-          "uuid": "03c91117-a4a2-4606-8371-fd15cda69d2f",
+          "uuid": "c7ced854-2262-454d-8ffc-a2de04113834",
           "confidence": 0.9
         },
         {
@@ -8116,12 +8116,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "959e86d7-6cd7-4a48-bc84-e42bd72f0c53"
+              "uuid": "35f8c279-3de3-4e44-a67f-9349e6e739b8"
             }
           ],
           "text": "-",
           "paragraph_id": 59,
-          "uuid": "d96a944c-1cd9-49b1-a840-41099060b369",
+          "uuid": "29892636-8dc7-48a5-9fab-d4023d81e2ec",
           "confidence": 0.9
         },
         {
@@ -8158,7 +8158,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b1c12522-8c21-4f24-a093-e0c2145555ae"
+              "uuid": "389da90c-422d-4e5f-9d69-d73ef004bc9a"
             },
             {
               "bbox": [
@@ -8210,7 +8210,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "26803bc5-d992-491e-a1c7-df81fe05c147"
+              "uuid": "9dc4d901-1df6-4f7a-ad4c-8c127f04cfba"
             },
             {
               "bbox": [
@@ -8264,7 +8264,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "edc8989b-28af-459e-9cb8-a7dc5a441b61"
+              "uuid": "f38956dd-fd7f-431d-86bf-a298e0e39d40"
             },
             {
               "bbox": [
@@ -8304,12 +8304,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "7a58cd89-e9d9-47b1-a2bd-9c4edd58ff6c"
+              "uuid": "873d7f65-54f4-4218-8b50-3170d227f1e4"
             }
           ],
           "text": "0.00\n2,636,430,186.00\n18,606,889,386.75\n17/02/2024",
           "paragraph_id": 60,
-          "uuid": "063f0d88-b577-4506-9a63-bbf4fc647e4f",
+          "uuid": "0c9207f7-0b1c-40df-90ba-21fed8333c50",
           "confidence": 0.9
         },
         {
@@ -8354,12 +8354,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "7b5a1fbd-94c4-4ed7-8e9b-b1fe195567dd"
+              "uuid": "30dd9d06-8c19-43af-a723-04a012787ad9"
             }
           ],
           "text": "11:44:46",
           "paragraph_id": 61,
-          "uuid": "1811eeca-c867-4116-abde-bad8c87990cc",
+          "uuid": "a83d2eeb-ec5f-4631-bfc7-478a30b948e7",
           "confidence": 0.9
         },
         {
@@ -8408,7 +8408,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "75bfd17f-fb30-4fc2-b9b8-84b3928b9be1"
+              "uuid": "753c9635-3f43-4e8e-8645-fddecf4230f3"
             },
             {
               "bbox": [
@@ -8466,7 +8466,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "cd70eb73-6256-4c60-b99f-9ff5e946626d"
+              "uuid": "230e58e0-ceb3-4762-8348-aa5f69beed31"
             },
             {
               "bbox": [
@@ -8542,7 +8542,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "3d4122f6-7537-45c1-b936-e5e7bed7beb8"
+              "uuid": "fd02aac4-f7ae-44d6-9e67-cbc48149bf1b"
             },
             {
               "bbox": [
@@ -8616,7 +8616,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "99125d1c-1de8-4a6a-9012-75e14ca99bbd"
+              "uuid": "e25a58cd-bb1a-4bae-94be-585cd2fd1950"
             },
             {
               "bbox": [
@@ -8682,12 +8682,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "9ab07d91-482a-4f6d-b34b-7e1c2561558a"
+              "uuid": "45421e04-d763-4606-97f8-c0b4e87277bc"
             }
           ],
           "text": "17/02/2024\n006B/SSKB Coal/MBS-\nMCM InhouseTrf  DARI SEMESTA\nANDALAN ENERGI Transfer Fee\n20240217110383423099102",
           "paragraph_id": 62,
-          "uuid": "49714562-1c7e-409d-b016-a9a576216c5a",
+          "uuid": "4c50ab71-5550-4d71-a804-e9eabc4d470c",
           "confidence": 0.9
         },
         {
@@ -8718,12 +8718,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "90bfe6fe-0433-485e-b837-d34b5677de03"
+              "uuid": "42c74cad-e0ca-490f-ae3b-f82bba04e047"
             }
           ],
           "text": "-",
           "paragraph_id": 63,
-          "uuid": "8bd7a4b1-4dcb-4404-b739-fe14d8911771",
+          "uuid": "7ef718c7-b636-4478-8020-c29a2a8e6f84",
           "confidence": 0.9
         },
         {
@@ -8784,7 +8784,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "ebf420dd-45a8-4369-844d-738c147d2bad"
+              "uuid": "9387ba3f-7474-4092-9e5a-96588f5461af"
             },
             {
               "bbox": [
@@ -8812,7 +8812,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "ffff5f1b-b1c4-4264-8ac5-7c9d63a1dd01"
+              "uuid": "ddd92a45-4671-4c7a-9caa-8fef4b90866b"
             },
             {
               "bbox": [
@@ -8866,7 +8866,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "04a23a77-e4b6-4b71-b0e7-fccce5812933"
+              "uuid": "2c41380e-87ee-4e7c-bfec-00c35cb726b0"
             },
             {
               "bbox": [
@@ -8906,12 +8906,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "98bc9791-a0ae-45b4-ac83-61985f99730a"
+              "uuid": "fc747414-2bb9-409d-af96-d6526c4075c4"
             }
           ],
           "text": "1,600,000,000.00\n0.00\n17,006,889,386.75\n19/02/2024",
           "paragraph_id": 64,
-          "uuid": "ff9ade9c-a38c-4c9f-bb37-2d7206600c03",
+          "uuid": "10a7f65d-6c64-4f9b-ba0c-0aea01387815",
           "confidence": 0.9
         },
         {
@@ -8956,12 +8956,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "e2fb829b-02c7-4b67-8468-35e14b83c9c7"
+              "uuid": "d4f82cda-6558-4f06-b871-571f149815b5"
             }
           ],
           "text": "10:33:35",
           "paragraph_id": 65,
-          "uuid": "e7a336f6-0db9-488a-965e-e0ee882e0d7c",
+          "uuid": "80b2aa57-5836-4500-a1ea-0066a295cd3c",
           "confidence": 0.9
         },
         {
@@ -9010,7 +9010,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "18da1663-fa52-4728-b32e-03e5377b0bb5"
+              "uuid": "50bad1d7-f125-475e-842f-6e6296aca7f1"
             },
             {
               "bbox": [
@@ -9072,7 +9072,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "6762b591-c1ef-4d6a-8815-c88722c36098"
+              "uuid": "548ce04a-11d6-4bbb-94ad-8eb54f06fd90"
             },
             {
               "bbox": [
@@ -9138,12 +9138,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "cacbcc8f-c042-472d-92a4-367088699caa"
+              "uuid": "4492a519-c048-4de0-a5f2-61ee1baf6f6d"
             }
           ],
           "text": "19/02/2024\nCK 233298-PINDAH DANA\nTransfer 00233298 11000",
           "paragraph_id": 66,
-          "uuid": "abcd2ac0-deb9-4f9d-bbd1-192ba1677a7f",
+          "uuid": "58676167-6f48-4c36-a4ab-80345e0664c6",
           "confidence": 0.9
         },
         {
@@ -9174,12 +9174,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "46cd9f34-1d1e-4e4e-a7c6-1d8cfd3cf598"
+              "uuid": "2460e050-1968-4dd2-9c42-01ac619c41db"
             }
           ],
           "text": "-",
           "paragraph_id": 67,
-          "uuid": "f04fd900-0217-424e-b651-397822a45b35",
+          "uuid": "221cae2c-3924-40da-a396-7e350eb632b4",
           "confidence": 0.9
         },
         {
@@ -9240,7 +9240,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "c2f24b17-045b-499d-b0b8-6df10c6bc79b"
+              "uuid": "0fd922c6-b7ce-4ee6-8047-fa3936a1d475"
             },
             {
               "bbox": [
@@ -9268,7 +9268,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "bc876dc6-24eb-4f74-8057-5ebf50193375"
+              "uuid": "21c428aa-a166-4e0d-924c-2b6b37e09751"
             },
             {
               "bbox": [
@@ -9322,7 +9322,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "694bf9ee-2f10-412a-a8c2-da9cbbd3883d"
+              "uuid": "687f8a5d-6170-4bff-bbb5-0aaa20eca565"
             },
             {
               "bbox": [
@@ -9362,12 +9362,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "da2a1bc6-1e24-4568-a954-8faae865952d"
+              "uuid": "0647c5db-ed04-45e5-b177-38731cc33687"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n16,006,889,386.75\n21/02/2024",
           "paragraph_id": 68,
-          "uuid": "503a0bea-fe6d-4c8c-b10e-b4aa8d26d4cb",
+          "uuid": "05a825d2-8158-42d2-8ed7-02508618e4f3",
           "confidence": 0.9
         },
         {
@@ -9412,12 +9412,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3613ae28-504e-4f7b-beaa-03a392fe3aeb"
+              "uuid": "8f3399f7-2a17-491b-9b3c-b11fd47c1143"
             }
           ],
           "text": "14:18:18",
           "paragraph_id": 69,
-          "uuid": "0e05fa83-5def-4bb6-8f19-d7d2bdca8044",
+          "uuid": "e6ac3768-338f-4aa1-83a8-e6167a65141f",
           "confidence": 0.9
         },
         {
@@ -9466,7 +9466,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6eee5fcf-41d5-4e98-85a5-06573cc44b6a"
+              "uuid": "c1e6d782-0959-4e2e-bb92-86a10b7d8926"
             },
             {
               "bbox": [
@@ -9526,7 +9526,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "8a9c8abd-41fd-428d-b757-a89cf70b26f8"
+              "uuid": "6a5fbf87-f03e-4f92-984e-917817dcb94f"
             },
             {
               "bbox": [
@@ -9608,7 +9608,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "887d20f0-6419-4f3e-b23c-88acdcb0a58d"
+              "uuid": "9d926ef3-1e4b-4992-9530-f8bf4498ff1b"
             },
             {
               "bbox": [
@@ -9668,12 +9668,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "c24c5db8-3550-4c6e-af8c-63cc43d44394"
+              "uuid": "fed1f76b-1d4f-428c-8e97-4114db9b00ac"
             }
           ],
           "text": "21/02/2024\nPindah Buku 2418 2.2\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee",
           "paragraph_id": 70,
-          "uuid": "2a2dc528-a37f-45bf-96c7-17457c7c9a0a",
+          "uuid": "84dc792e-08a9-4bf5-b759-13437586149b",
           "confidence": 0.9
         },
         {
@@ -9704,12 +9704,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "9408ea84-5e3e-4075-bf4e-4808c25d9161"
+              "uuid": "c4a37448-a230-43a0-8f73-e5f67d06d72c"
             }
           ],
           "text": "-",
           "paragraph_id": 71,
-          "uuid": "1d042eef-7f96-4aee-bf06-9e8f47757ac9",
+          "uuid": "57d55399-c8ca-40d4-9bd8-f6bf02023788",
           "confidence": 0.9
         },
         {
@@ -9760,12 +9760,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "96c8d73e-06d1-4fc0-98ab-aa01f2a6ee7b"
+              "uuid": "880eab33-9bf9-48db-8fdb-d785a783cba9"
             }
           ],
           "text": "Page 1 of 3",
           "paragraph_id": 72,
-          "uuid": "d0ff3eb1-f3e8-44bc-a616-257581820d88",
+          "uuid": "b59478aa-7954-43e9-9a4c-a1458e782511",
           "confidence": 0.9
         }
       ],
@@ -9837,12 +9837,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "e510d8ff-5bfd-4ed0-b2fb-b3255631af62"
+              "uuid": "5070e021-6f97-4911-bf56-e853e244672a"
             }
           ],
           "text": "Rekening Koran",
           "paragraph_id": 1,
-          "uuid": "786c18fe-5309-43ab-9d3e-5b7af9266dc7",
+          "uuid": "7c8a3e97-e93b-418e-bf58-27340a449e10",
           "confidence": 0.9
         },
         {
@@ -9911,12 +9911,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "bd98cbd1-796b-40f7-b314-4dfaeffa32d1"
+              "uuid": "69c09258-d424-499d-975c-8dae0cf7f551"
             }
           ],
           "text": " (Account Statement)",
           "paragraph_id": 2,
-          "uuid": "db292349-3c81-4a2e-935f-ae346946ae01",
+          "uuid": "72d942fa-2351-4f4d-981b-93725c91966c",
           "confidence": 0.9
         },
         {
@@ -9965,12 +9965,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "5acc2e19-4752-439d-bf3c-8823300c68a0"
+              "uuid": "2138ed9d-6c2a-4e0e-8f4b-461fdcf94d5a"
             }
           ],
           "text": "Account No",
           "paragraph_id": 3,
-          "uuid": "7f77dd24-3c25-4551-85c9-99f9c3c43a7a",
+          "uuid": "5aa5f258-85ae-4bf3-a96c-95b06f18031c",
           "confidence": 0.9
         },
         {
@@ -10015,7 +10015,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "659dc403-007b-4abd-9c9e-e7a27d7aa7f6"
+              "uuid": "9a577200-ee99-45b5-afb6-2c641afa0e65"
             },
             {
               "bbox": [
@@ -10041,12 +10041,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "b322c4a7-9e1d-41b7-b3a3-56227428f088"
+              "uuid": "c2f8449f-825c-4823-89a0-860abc117093"
             }
           ],
           "text": "Currency\nIDR",
           "paragraph_id": 4,
-          "uuid": "75cc6d05-bc0f-49e9-b2e7-c5e0062abe6e",
+          "uuid": "f8a42523-7f34-45ec-bfd9-e7534d112e3b",
           "confidence": 0.9
         },
         {
@@ -10077,12 +10077,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "f94af275-1cda-43c8-8ec5-d5b848f71648"
+              "uuid": "810d2bd5-ab51-43c6-943a-4be70f030e8b"
             }
           ],
           "text": ":",
           "paragraph_id": 5,
-          "uuid": "934ac38c-a6e0-4bc0-94d9-ceb0f1a695d1",
+          "uuid": "db3f1373-2b1b-4498-bea2-fb31273c4f93",
           "confidence": 0.9
         },
         {
@@ -10113,12 +10113,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "530c7ca3-d23b-4193-815c-ba9b7ae09746"
+              "uuid": "102a7ceb-66af-45cb-9dde-50bba2fe77ec"
             }
           ],
           "text": ":",
           "paragraph_id": 6,
-          "uuid": "1722e531-bf13-4dae-991e-2762b31823ae",
+          "uuid": "ede08c96-6a5c-49cf-a9a7-894f25b1a27b",
           "confidence": 0.9
         },
         {
@@ -10267,12 +10267,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "72887d41-6e5c-461f-97f6-e74744dd2325"
+              "uuid": "1baea83f-0f3a-47ea-9a72-66c2b96603f0"
             }
           ],
           "text": "1100062559999 IDR METALIK BARA SINERGI  METALIK BARA SINERGI",
           "paragraph_id": 7,
-          "uuid": "f2a67c4e-dea6-4d65-85dd-2a0c1ae7a674",
+          "uuid": "eb229bf3-5f75-4123-94b7-8e50051dac6f",
           "confidence": 0.9
         },
         {
@@ -10313,7 +10313,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "735d44ab-a8d6-49fb-94a3-b153c539bc31"
+              "uuid": "c757d708-6fcc-46e0-b8d7-3921b0eb32b9"
             },
             {
               "bbox": [
@@ -10343,12 +10343,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "ddbfc73b-73f6-4677-a1df-9a98abf3834c"
+              "uuid": "a24d1901-be93-44a7-ab7d-497a4bfbee22"
             }
           ],
           "text": "Branch\n00110",
           "paragraph_id": 8,
-          "uuid": "87e5ebb3-5a99-4974-b510-31dfdbbd1c0c",
+          "uuid": "cdf8006b-05b6-48eb-a677-dbca31bf9943",
           "confidence": 0.9
         },
         {
@@ -10379,12 +10379,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "16b745e3-95e4-4c62-a72f-69fdb2d6c7dc"
+              "uuid": "47594332-439d-42bd-90eb-5f7c9a1ab356"
             }
           ],
           "text": ":",
           "paragraph_id": 9,
-          "uuid": "554f65d5-71b0-46eb-b825-1dd09902aefe",
+          "uuid": "5bb270e5-65eb-4b90-b28c-3a93231cfe81",
           "confidence": 0.9
         },
         {
@@ -10427,7 +10427,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d3369711-1d00-4bda-a5b6-8c6ba0dfadd6"
+              "uuid": "a5cd4b1e-599f-4570-b0d3-c2b5f4d235bd"
             },
             {
               "bbox": [
@@ -10469,12 +10469,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "4de32983-9a01-43ed-8af6-91d6fe74ac8a"
+              "uuid": "2dcb20d6-df56-42d5-937c-65403ea45369"
             }
           ],
           "text": "Periode\n01 Feb 2024",
           "paragraph_id": 10,
-          "uuid": "9481a30d-3683-407b-8394-5a50d175e954",
+          "uuid": "b51383fd-c9f7-4b58-bfbd-245a6e2131e0",
           "confidence": 0.9
         },
         {
@@ -10505,12 +10505,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "295f5fed-ab33-4676-9b25-c5ac36fa4bbf"
+              "uuid": "6bbf8178-a9c8-4626-9c28-4a17be48deae"
             }
           ],
           "text": ":",
           "paragraph_id": 11,
-          "uuid": "9b35cb48-fc7f-4118-8908-1f27dc401f09",
+          "uuid": "7e910f70-e736-4bd4-8b65-63299af9b3c8",
           "confidence": 0.9
         },
         {
@@ -10547,12 +10547,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "57a18a70-d5fa-43b9-a0e7-213ea9f05074"
+              "uuid": "2021694f-ea68-44f6-8d2e-9572f599e451"
             }
           ],
           "text": "From",
           "paragraph_id": 12,
-          "uuid": "28a011a6-d9dc-4994-8e93-131010e93eb6",
+          "uuid": "6bb8c108-d5be-4915-a7f4-aff2285d8843",
           "confidence": 0.9
         },
         {
@@ -10585,7 +10585,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "8b1aad1e-027a-4823-8a2d-41394b738d5f"
+              "uuid": "a3d936eb-016a-495e-bbbf-8fc691ec72ee"
             },
             {
               "bbox": [
@@ -10627,12 +10627,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "5b8cea33-f9f9-480d-9d6e-173a62ff3316"
+              "uuid": "06d2bb7d-706c-4073-b6b1-17085e787fbd"
             }
           ],
           "text": "To\n29 Feb 2024",
           "paragraph_id": 13,
-          "uuid": "981580fb-92ed-488a-bdae-ad5ad571bce9",
+          "uuid": "071510f1-6932-4749-9584-0def4f93183f",
           "confidence": 0.9
         },
         {
@@ -10683,7 +10683,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "47e10a05-168a-40e6-88e0-d2653e23ab1f"
+              "uuid": "86f295cb-09df-4786-b1b8-3caf3e253416"
             },
             {
               "bbox": [
@@ -10723,7 +10723,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "2442ae76-76ab-4e1e-8eb7-4453bbb5192d"
+              "uuid": "dabe9b11-3ff9-4533-bbe9-fd54d72e8137"
             },
             {
               "bbox": [
@@ -10765,7 +10765,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "0f407bbc-e7c2-4e7e-a71c-1ecac4d0133a"
+              "uuid": "8d8a1c7c-73bf-4db1-93e5-73f149ae62d2"
             },
             {
               "bbox": [
@@ -10795,7 +10795,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "7057695c-8e58-4355-9d95-83211773b290"
+              "uuid": "b0a50e10-08a2-465a-a56d-3fe49f872fbc"
             },
             {
               "bbox": [
@@ -10829,7 +10829,7 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "7db45c0b-a616-4f62-945e-6d35b189cc0e"
+              "uuid": "bfafe7ae-f2c9-49f6-8457-c1e610985fc0"
             },
             {
               "bbox": [
@@ -10861,7 +10861,7 @@
               },
               "line_id": 6,
               "confidence": 0.9,
-              "uuid": "2ff381c7-3edb-4894-94f4-a63d76f42f9c"
+              "uuid": "108c3e59-0f45-4079-9c7b-fb893543acde"
             },
             {
               "bbox": [
@@ -10907,12 +10907,12 @@
               },
               "line_id": 7,
               "confidence": 0.9,
-              "uuid": "315d0c2e-8e77-4b32-9dc7-61d8146caf78"
+              "uuid": "3347bfbd-0f82-4469-9d35-e74c1dffc4d7"
             }
           ],
           "text": "Date & Time\nValue Date\nDescription\nDebit\nBalance\nCredit\nReference No.",
           "paragraph_id": 14,
-          "uuid": "94843e71-8476-46f8-aa43-ec968b539c18",
+          "uuid": "7cfb1293-8b2c-42a4-80c4-b8caf7682a41",
           "confidence": 0.9
         },
         {
@@ -10987,12 +10987,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "83051769-4767-419b-a996-485a03a57f63"
+              "uuid": "3661409d-6345-4f99-b71a-8cea65aab768"
             }
           ],
           "text": "20240221141584587899102",
           "paragraph_id": 15,
-          "uuid": "785c1277-5497-47ca-9769-535af91e5345",
+          "uuid": "7e5a781b-11c3-49ff-903b-57c98fb4c861",
           "confidence": 0.9
         },
         {
@@ -11053,7 +11053,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "4096a1ef-ceac-4c6b-949b-cbd7a52ab6c7"
+              "uuid": "2b42c753-6d05-4d49-8fc4-63d9e3e3e885"
             },
             {
               "bbox": [
@@ -11081,7 +11081,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "2912ef5c-3e0f-42d7-8846-5f57f1f9ad92"
+              "uuid": "d595ff4c-26a0-4403-a5c5-3352d6bb16cc"
             },
             {
               "bbox": [
@@ -11135,7 +11135,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "99f01b7e-76de-4457-a79e-c2e22e9fff21"
+              "uuid": "d3bb9925-6117-43e9-9407-3fe6c6baafec"
             },
             {
               "bbox": [
@@ -11175,12 +11175,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "121deae3-45d3-402c-a8ee-6637abf77096"
+              "uuid": "be024428-ff28-4a7b-8ad9-3e4d35977300"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n15,006,889,386.75\n22/02/2024",
           "paragraph_id": 16,
-          "uuid": "16d9e33a-fe1e-405b-9421-449a5cfde7cb",
+          "uuid": "39c79668-a1ee-47b9-a89a-be62392a226a",
           "confidence": 0.9
         },
         {
@@ -11225,12 +11225,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6d5a0c64-75ff-4e32-8d1d-3f58a590bdf5"
+              "uuid": "60810868-feec-4984-ad9e-e8fa59a12437"
             }
           ],
           "text": "12:28:55",
           "paragraph_id": 17,
-          "uuid": "282a764e-c463-406a-aced-2b256b2b9d06",
+          "uuid": "b131f6ec-5482-4962-9e0d-67a9a473ab33",
           "confidence": 0.9
         },
         {
@@ -11279,7 +11279,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "e5542889-b71e-4b41-ba9a-c171c4fc0dd5"
+              "uuid": "16db2a4f-7251-4af3-8775-8a1539679221"
             },
             {
               "bbox": [
@@ -11391,7 +11391,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "70c93477-44a0-4633-a6a0-7ad23d518bb1"
+              "uuid": "70525254-657a-4d37-9af9-ab2508dda9b3"
             },
             {
               "bbox": [
@@ -11451,12 +11451,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "9d65f025-a0cd-453d-ab85-a7d91784034c"
+              "uuid": "2d0315f4-5bf2-43c8-acf0-0ac944b98741"
             }
           ],
           "text": "22/02/2024\nCK 163191-                               Tarik\nTunai 00163191 11000",
           "paragraph_id": 18,
-          "uuid": "0a5943ef-63f6-4540-9a26-405e5b87a143",
+          "uuid": "224ae4d9-cceb-4033-806a-8a9899a182c7",
           "confidence": 0.9
         },
         {
@@ -11487,12 +11487,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "80802774-3b01-43bf-a1a6-8d5b5b5b7240"
+              "uuid": "73120d03-bab1-4fde-9b6c-de27ac5700bb"
             }
           ],
           "text": "-",
           "paragraph_id": 19,
-          "uuid": "695a1dbd-2485-41f8-b146-add038dd379c",
+          "uuid": "c3540dc0-69ff-445d-a116-a47b365c4fdd",
           "confidence": 0.9
         },
         {
@@ -11539,7 +11539,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "a4a35d53-2299-4986-af61-ee36882940e2"
+              "uuid": "18e2c0ef-5314-40dc-9aef-20bf9d5bfba0"
             },
             {
               "bbox": [
@@ -11567,7 +11567,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "e69c1dba-e562-4262-8c0d-3688ce616e5e"
+              "uuid": "1c722b07-d571-4c84-850e-acb974bc31cc"
             },
             {
               "bbox": [
@@ -11621,7 +11621,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "7fe640d7-fb95-4ee1-b2b4-f01a73c129c3"
+              "uuid": "f72cf0f4-cb00-452a-aa3b-2135bf567d54"
             },
             {
               "bbox": [
@@ -11661,12 +11661,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "37ae9f2a-5900-4a17-b2bd-48358b3b921d"
+              "uuid": "bc4571a2-d323-436c-9bad-fc80b23ccc7e"
             }
           ],
           "text": "10,000.00\n0.00\n15,006,879,386.75\n22/02/2024",
           "paragraph_id": 20,
-          "uuid": "3fe4544e-9086-4764-ad9a-2d4fbed02881",
+          "uuid": "d99a541c-0af9-4027-a3ce-d4a47e85b1b9",
           "confidence": 0.9
         },
         {
@@ -11711,12 +11711,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "352c3fcc-ad44-4151-8d47-d29816cda923"
+              "uuid": "b11d435c-f7e9-46c0-aa5d-3cda9eaf4729"
             }
           ],
           "text": "23:59:00",
           "paragraph_id": 21,
-          "uuid": "a320fd57-d8b0-4a47-899c-d676108cde94",
+          "uuid": "aefc55f7-6faf-4c77-83e8-2efc4dff9d2a",
           "confidence": 0.9
         },
         {
@@ -11765,7 +11765,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "40e7ccef-5b90-47c3-801a-a11d7c460393"
+              "uuid": "b8e0567a-583c-4193-ad9b-634889f965cd"
             },
             {
               "bbox": [
@@ -11883,7 +11883,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "399201e5-5690-4129-bff4-0eb21f4d449f"
+              "uuid": "f008fc98-4622-47f2-9696-613a4bbc1cf0"
             },
             {
               "bbox": [
@@ -11931,12 +11931,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "070e8353-233e-4287-b979-dedb03f2cc8b"
+              "uuid": "607d5190-568e-42fa-933d-7e5ed2275ac4"
             }
           ],
           "text": "22/02/2024\n                                         Buku Cek\n00511171 11000",
           "paragraph_id": 22,
-          "uuid": "d0406122-4ea3-446c-83f1-205692279364",
+          "uuid": "76bc92db-4301-4e63-9b1b-376dc7123eaa",
           "confidence": 0.9
         },
         {
@@ -11967,12 +11967,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b813697e-52f3-49ca-88be-a6fd45f31a5b"
+              "uuid": "4cb736fc-ff57-44ce-8fed-b0a12911433f"
             }
           ],
           "text": "-",
           "paragraph_id": 23,
-          "uuid": "2e9ce155-f74c-4373-9da1-2bfd8afc5e50",
+          "uuid": "dcb3c15f-2d4d-4de2-8fa3-4bb0bc78cb47",
           "confidence": 0.9
         },
         {
@@ -12021,7 +12021,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d08f9d5f-ffe1-4ca4-a622-59471608ac4c"
+              "uuid": "9e50a65f-152e-48a6-8d6b-ac576ce2bed7"
             },
             {
               "bbox": [
@@ -12049,7 +12049,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "184879db-a626-42f1-ab08-8e2e8577b749"
+              "uuid": "68c6422a-9dbb-4463-af12-4b22495b254f"
             },
             {
               "bbox": [
@@ -12103,7 +12103,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "d4438f90-031b-41b7-af0d-85be32cb276c"
+              "uuid": "ff50a4fd-6c29-436e-9e10-8023232e6a3a"
             },
             {
               "bbox": [
@@ -12143,12 +12143,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "e5573ce9-cd67-4a93-a4db-5688f8c1125f"
+              "uuid": "d5b666ed-ecd9-461c-8895-a748d2ae225c"
             }
           ],
           "text": "100,000.00\n0.00\n15,006,779,386.75\n22/02/2024",
           "paragraph_id": 24,
-          "uuid": "595cf6cf-b148-4d08-af9a-8b4ca4162c3d",
+          "uuid": "a5c83f4f-9cd0-4aa8-87d0-522d604fc5e0",
           "confidence": 0.9
         },
         {
@@ -12193,12 +12193,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "c96b51a9-1204-44db-aa80-da4631f33f7e"
+              "uuid": "69065f48-3759-470b-8163-337d38e4d7ef"
             }
           ],
           "text": "23:59:00",
           "paragraph_id": 25,
-          "uuid": "d59d02f9-7588-4349-a06a-00b405848d26",
+          "uuid": "3f74ffed-4b2d-49ef-9342-0b0340f66f95",
           "confidence": 0.9
         },
         {
@@ -12247,7 +12247,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "0efa0449-754f-484e-9cec-0ff276f06218"
+              "uuid": "98fa128d-323d-46d6-8754-0342e4d84d2d"
             },
             {
               "bbox": [
@@ -12363,7 +12363,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "6c3e551c-8139-4242-a574-ec28bd80e3c2"
+              "uuid": "509c81ea-8840-4300-af16-9b02369814e8"
             },
             {
               "bbox": [
@@ -12411,12 +12411,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "158730a3-e18f-4e13-9b37-c83743ba3e5b"
+              "uuid": "3fb61c23-3617-4868-b2ef-e2d43234fb70"
             }
           ],
           "text": "22/02/2024\n                                         Meterai\n00511171 11000",
           "paragraph_id": 26,
-          "uuid": "6da0b5fa-184c-4ba7-823f-ca4dcc724ebb",
+          "uuid": "2a411a94-cdb2-491a-84fb-34e315cc038a",
           "confidence": 0.9
         },
         {
@@ -12447,12 +12447,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3f2f36c8-7a58-4ce3-9e29-9ada37784e5f"
+              "uuid": "ce83f013-3d1e-4c40-a8c0-9120e6c7fa72"
             }
           ],
           "text": "-",
           "paragraph_id": 27,
-          "uuid": "9e3eef7f-2817-409d-8d4f-8a65cb13925f",
+          "uuid": "d02fedbc-72e1-4a67-a3d4-2f619a511d07",
           "confidence": 0.9
         },
         {
@@ -12513,7 +12513,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "9ecb99cd-e2f6-48be-b64a-9ba6be5cf585"
+              "uuid": "c8ec6318-e6af-4d86-8f73-f8dbf0ffab73"
             },
             {
               "bbox": [
@@ -12541,7 +12541,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "fef1d893-bc1c-47b4-ab77-45b599a09c27"
+              "uuid": "f4ee9c09-c675-4dd3-b3a3-7226f48bf3e1"
             },
             {
               "bbox": [
@@ -12595,7 +12595,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "1c54ac0b-a95f-47d9-8a7e-ed19945a3c6a"
+              "uuid": "3dfc1e1d-63d7-4111-a183-2bffd010e1e5"
             },
             {
               "bbox": [
@@ -12635,12 +12635,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "b0cec2db-ba5b-45fb-aa30-7e1c68dd86f3"
+              "uuid": "7ed19eb4-8d0e-4336-a225-b6001f9341e3"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n14,006,779,386.75\n24/02/2024",
           "paragraph_id": 28,
-          "uuid": "85ae45c1-b877-4d71-b86c-0fd032f706f7",
+          "uuid": "e81c5f49-05b0-4010-a067-7b2b5a24c79e",
           "confidence": 0.9
         },
         {
@@ -12685,12 +12685,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d45bb23f-4f35-4abb-bfde-efd2b293686c"
+              "uuid": "051ec2fd-3638-4ccc-8fb3-04424450424f"
             }
           ],
           "text": "13:18:00",
           "paragraph_id": 29,
-          "uuid": "17f1856d-ae08-4140-979b-05711901967a",
+          "uuid": "03d8798c-7504-483b-baf1-1ca9e1ba37ec",
           "confidence": 0.9
         },
         {
@@ -12739,7 +12739,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "c076c7d3-72e3-480a-8fd5-49390192cde2"
+              "uuid": "e1e0cb2a-3434-47b8-9d31-cbffdb4c028e"
             },
             {
               "bbox": [
@@ -12799,7 +12799,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "42c3dab5-a4e8-4fa5-833d-b20ab486e8b7"
+              "uuid": "6718fada-1a18-4b0d-a90e-cd43aa432496"
             },
             {
               "bbox": [
@@ -12881,7 +12881,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "84f553a2-973f-46b8-b53e-9d720edc6cba"
+              "uuid": "c583bafc-626e-428b-b992-7b21d6b50e62"
             },
             {
               "bbox": [
@@ -12941,7 +12941,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "da8e8200-bec1-454d-bef2-c39b5ef07787"
+              "uuid": "47e4a681-fe15-4ace-af33-dac00232d9d3"
             },
             {
               "bbox": [
@@ -13007,12 +13007,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "206d874d-165f-4ca7-b29f-4ea18e97cf34"
+              "uuid": "faadafaa-ba92-4bdb-91e2-79fcbfa5d678"
             }
           ],
           "text": "24/02/2024\nPindah Buku 999K 2.3\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240224131692875499102",
           "paragraph_id": 30,
-          "uuid": "e7b71b67-f9da-495c-8c5f-6062ca8befd9",
+          "uuid": "905c0ecc-33e4-413e-b122-e0297c5aa7b4",
           "confidence": 0.9
         },
         {
@@ -13043,12 +13043,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "57032e4e-88b6-4eba-805a-fe3f01061637"
+              "uuid": "9f4cd116-9040-48d6-b8e7-eb5c5cebc40a"
             }
           ],
           "text": "-",
           "paragraph_id": 31,
-          "uuid": "dedaa890-85a6-4b1f-83a2-39041c137c87",
+          "uuid": "3337e0ba-68c1-4820-804d-bdee4e11e17b",
           "confidence": 0.9
         },
         {
@@ -13109,7 +13109,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "a7e697ea-1a1f-450a-b77a-9ac07ad0029d"
+              "uuid": "d363e66b-9391-4f3b-ba32-65561bf2c57a"
             },
             {
               "bbox": [
@@ -13137,7 +13137,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "cf95094f-9131-49d6-aaed-cb6810af816a"
+              "uuid": "baf89867-3333-4586-888b-ba2026d9ec4f"
             },
             {
               "bbox": [
@@ -13191,7 +13191,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "5fb57db6-17ce-4d6e-b240-276699453692"
+              "uuid": "9216724e-5cab-4f3d-9aec-76a95242ebd4"
             },
             {
               "bbox": [
@@ -13231,12 +13231,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "80a50180-96d3-48b8-a830-26e0878fcd04"
+              "uuid": "6481a946-d758-499f-a391-2fe32b5527f0"
             }
           ],
           "text": "1,000,000,000.00\n0.00\n13,006,779,386.75\n27/02/2024",
           "paragraph_id": 32,
-          "uuid": "2fcbf0ad-c005-4c12-8787-0a9e6f8057d4",
+          "uuid": "ceebdb42-29fc-450f-9c8f-3c01e665d1ec",
           "confidence": 0.9
         },
         {
@@ -13281,12 +13281,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "a2612d4f-9557-4de4-9905-a075a0d15d25"
+              "uuid": "eb02e740-2c2b-4c52-b308-248ca21a99bc"
             }
           ],
           "text": "10:03:25",
           "paragraph_id": 33,
-          "uuid": "bb8f5bb8-394b-4c94-b8af-c365d9c811cc",
+          "uuid": "ee500e14-8edd-49d8-868a-b513a9aa0f36",
           "confidence": 0.9
         },
         {
@@ -13335,7 +13335,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "8033aa91-c905-49b2-afdf-d586b10e14b5"
+              "uuid": "55e4d171-2012-4c81-8191-40f39f06c1ef"
             },
             {
               "bbox": [
@@ -13395,7 +13395,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "395fad3e-d190-41b6-a00d-2bbfba58fc97"
+              "uuid": "b08364e1-ee02-4fad-8d6c-9068da27856f"
             },
             {
               "bbox": [
@@ -13477,7 +13477,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "2a13da31-3d45-4011-974b-c2ff87c0440c"
+              "uuid": "74573691-abde-475c-b750-321e894e549e"
             },
             {
               "bbox": [
@@ -13537,7 +13537,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "4b268f90-a18c-4424-8610-6d0a9ad38b7e"
+              "uuid": "20737824-2150-429b-9f11-ab8ef87c98e2"
             },
             {
               "bbox": [
@@ -13603,12 +13603,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "00f81e8e-bd7b-4888-a447-9dd16f02c09d"
+              "uuid": "c45f5450-d5ae-48dc-ac7c-99a8118eca58"
             }
           ],
           "text": "27/02/2024\nPindah Buku 999K 2.4\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240227100077016999102",
           "paragraph_id": 34,
-          "uuid": "174199c4-baec-4044-a3af-e48fd36736f6",
+          "uuid": "074a06ae-5853-4bdb-a048-e0d40dbb07e3",
           "confidence": 0.9
         },
         {
@@ -13639,12 +13639,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "49c450d4-71dd-43ce-8d49-6a316be32397"
+              "uuid": "35cc22c0-a3cc-4c9c-b008-20d2b278f23d"
             }
           ],
           "text": "-",
           "paragraph_id": 35,
-          "uuid": "a486129b-7ccf-4b77-86ef-c2326878f123",
+          "uuid": "3cd2736b-4977-42d8-adb0-202575afff97",
           "confidence": 0.9
         },
         {
@@ -13705,7 +13705,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "0b8964f2-8fbe-4973-8425-4753bcff858a"
+              "uuid": "b727c2e8-dd6d-4361-82bd-67c0f35ca2db"
             },
             {
               "bbox": [
@@ -13733,7 +13733,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "05ec5c0a-4573-41fd-a734-80ba0a0d356b"
+              "uuid": "c651a7b3-a9c4-4cbb-b119-2a8953b3a6be"
             },
             {
               "bbox": [
@@ -13787,7 +13787,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "dc45cf58-a406-4820-8a2e-06595b817fec"
+              "uuid": "8e78ad91-6475-45e1-8e36-513db548a614"
             },
             {
               "bbox": [
@@ -13827,12 +13827,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "12fbe382-752d-4efa-91a3-1a5f8b2df173"
+              "uuid": "1ffaba99-7589-4d56-9495-05010377be34"
             }
           ],
           "text": "1,500,000,000.00\n0.00\n11,506,779,386.75\n27/02/2024",
           "paragraph_id": 36,
-          "uuid": "29ba2f05-0cf5-4ef7-87f3-ddd1aadff58b",
+          "uuid": "5186d112-6bb7-4119-962f-78e2258f8725",
           "confidence": 0.9
         },
         {
@@ -13877,12 +13877,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "7fa34172-2c29-4024-8557-634b56c99a5a"
+              "uuid": "61f4398c-1c65-4f36-a3ea-749e1d2e154e"
             }
           ],
           "text": "14:19:43",
           "paragraph_id": 37,
-          "uuid": "667e66ea-9cb9-47c4-a1db-e4ed9f238b5e",
+          "uuid": "f64fc5c2-bf37-468e-8dbc-d3cbcc9d02fc",
           "confidence": 0.9
         },
         {
@@ -13931,7 +13931,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "417902ef-e010-49d2-9349-e61fe8a9882d"
+              "uuid": "bed2a622-e007-4239-bf89-49eb7a5863b4"
             },
             {
               "bbox": [
@@ -13991,7 +13991,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "bd2c327f-3997-43db-847c-11e26777512c"
+              "uuid": "a965c55e-b16a-4e2a-9d55-8e7e447c26b5"
             },
             {
               "bbox": [
@@ -14073,7 +14073,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "b85d2aeb-0962-4479-99c0-edc5c74bacb6"
+              "uuid": "6774186c-719d-4b62-81fc-816d6b44c132"
             },
             {
               "bbox": [
@@ -14133,7 +14133,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "69d4f0ca-9c7b-4326-a581-1db91e70342d"
+              "uuid": "e615698f-39ac-4817-9dca-3f890d44a181"
             },
             {
               "bbox": [
@@ -14199,12 +14199,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "c5e7fdea-4eaa-490f-b2ee-9dfbc1918178"
+              "uuid": "e366cc01-90c6-471d-b281-c96633e43e75"
             }
           ],
           "text": "27/02/2024\nPindah Buku 2418 2.2\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240227141665832799102",
           "paragraph_id": 38,
-          "uuid": "ae7031e3-e80e-4a0c-ba2f-1f172f74e831",
+          "uuid": "a4c9623d-c5fa-4382-964a-a5a66c5211d5",
           "confidence": 0.9
         },
         {
@@ -14235,12 +14235,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "34f029ae-dec6-491d-864b-a1e003200987"
+              "uuid": "c5e78db7-b71c-4f26-962b-8fa03129ea98"
             }
           ],
           "text": "-",
           "paragraph_id": 39,
-          "uuid": "1e0440b0-7f82-43be-ad5d-dca076565da4",
+          "uuid": "36f30970-20e4-499a-a8cc-a6914531f426",
           "confidence": 0.9
         },
         {
@@ -14277,7 +14277,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "25af53d0-7358-4f17-b3e4-aaf401fa4705"
+              "uuid": "25c7de4d-f184-4394-adb6-5d922c7c1cf6"
             },
             {
               "bbox": [
@@ -14329,7 +14329,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "0e7c4a01-dc48-482d-a7a9-39d68a6dfa01"
+              "uuid": "380a51b4-b4aa-4ac0-b358-5243af1d9753"
             },
             {
               "bbox": [
@@ -14383,7 +14383,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "611b74fd-d90b-43bd-8606-7775822fdc6f"
+              "uuid": "52459180-e0b3-47de-a538-21045837e1ff"
             },
             {
               "bbox": [
@@ -14423,12 +14423,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "37125a7b-8fc6-4729-8090-bf200ab29490"
+              "uuid": "e6f1e700-a98a-426e-baa6-3d2ea5398967"
             }
           ],
           "text": "0.00\n1,500,000,000.00\n13,006,779,386.75\n28/02/2024",
           "paragraph_id": 40,
-          "uuid": "570777f9-cd94-41e8-9230-5393b35765f7",
+          "uuid": "26569b2f-2043-4554-98b6-fa70b3269f22",
           "confidence": 0.9
         },
         {
@@ -14473,12 +14473,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "bca604b3-3377-4dfb-9c77-ae84990004b8"
+              "uuid": "738f28ae-3cd5-472a-bc7d-c7e72af1bc15"
             }
           ],
           "text": "11:17:40",
           "paragraph_id": 41,
-          "uuid": "db4202d2-7d4b-4513-b6bb-c6c744e4a5d0",
+          "uuid": "3d741e81-2067-410b-810b-a3b342930030",
           "confidence": 0.9
         },
         {
@@ -14527,7 +14527,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "a99bccc8-32ab-4723-857e-c36b77c0b282"
+              "uuid": "16a32ed2-ad63-4169-933d-0b6b8e85c1c7"
             },
             {
               "bbox": [
@@ -14587,7 +14587,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "bb768307-9b44-41a7-a813-5ad0baae1c54"
+              "uuid": "5f1e8942-32be-4fed-82a9-f6c44953d8d5"
             },
             {
               "bbox": [
@@ -14635,12 +14635,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "cae962c7-48e9-4c17-9924-2c27d495faf5"
+              "uuid": "6b870a7f-aba9-4abb-b582-f5b9da20a0de"
             }
           ],
           "text": "28/02/2024\nPINDAH BUKU 999M 2,1\nTransfer 11002",
           "paragraph_id": 42,
-          "uuid": "be02579e-6b5b-427c-8764-7670e8411790",
+          "uuid": "bee143f3-1637-4783-bcd2-29c14e38e804",
           "confidence": 0.9
         },
         {
@@ -14671,12 +14671,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "1c5a711b-3a3e-4623-93bb-da0c80c796ba"
+              "uuid": "4e30732b-ef5b-4b51-bc6f-8b4752044418"
             }
           ],
           "text": "-",
           "paragraph_id": 43,
-          "uuid": "8eaa9b50-00e7-468a-9748-034a8dd973f3",
+          "uuid": "00801320-33da-467e-bfef-f95617d8f4d2",
           "confidence": 0.9
         },
         {
@@ -14733,7 +14733,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "de9f7158-2248-4d6f-84db-816766eb4b3b"
+              "uuid": "5d52f240-158f-4d8b-9246-0d468c3a07cd"
             },
             {
               "bbox": [
@@ -14761,7 +14761,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "878e5cf2-38c5-4dab-adae-7fb4947eb86f"
+              "uuid": "d4552db1-684b-4dfd-a33d-67eb1f31013b"
             },
             {
               "bbox": [
@@ -14815,7 +14815,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "82e130a7-7cd0-4492-b2c9-b618581247a3"
+              "uuid": "efa56306-b910-4c41-9f40-889d8a896538"
             },
             {
               "bbox": [
@@ -14855,12 +14855,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "1bba8d2f-417f-4f15-a7fc-dd632abc6aa6"
+              "uuid": "254928fa-1eba-4d83-a782-8a2bb1aa43b2"
             }
           ],
           "text": "500,000,000.00\n0.00\n12,506,779,386.75\n29/02/2024",
           "paragraph_id": 44,
-          "uuid": "e9f7dd24-63e6-4505-9c43-b3b325b66742",
+          "uuid": "375e70a1-fcd7-4379-bc16-e7ed14380702",
           "confidence": 0.9
         },
         {
@@ -14905,12 +14905,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "31073d72-2f4b-4a0c-afb8-0f6577182847"
+              "uuid": "3e3bf74f-73d6-440d-af01-01c69d5fc672"
             }
           ],
           "text": "15:35:39",
           "paragraph_id": 45,
-          "uuid": "253c1cf1-39cb-4d8e-9d4e-290354c4df2e",
+          "uuid": "f8f0e1e0-4830-43c9-8c21-2b9e4781b362",
           "confidence": 0.9
         },
         {
@@ -14959,7 +14959,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "cab56357-8831-4aa2-aff2-ee43dbaeb9f0"
+              "uuid": "6f15b0fb-a965-4468-b1ed-3bb341e4a78d"
             },
             {
               "bbox": [
@@ -15019,7 +15019,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "6016cece-695d-4b98-9242-1eee48d6014d"
+              "uuid": "03a69f08-f848-4369-abeb-92d7601fa8e7"
             },
             {
               "bbox": [
@@ -15101,7 +15101,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "b1bd868c-dc3b-4e4b-8bed-e021312fc83a"
+              "uuid": "82f557ba-bba0-416c-948b-7c78c9c385b6"
             },
             {
               "bbox": [
@@ -15161,7 +15161,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "b11e2644-30bf-4833-a854-19dca56edb9c"
+              "uuid": "40dad43e-f9d2-4764-9904-4c75756c7162"
             },
             {
               "bbox": [
@@ -15227,12 +15227,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "d104ca0f-e2b4-4c75-a58d-e94d4cc6a144"
+              "uuid": "56b4bf58-51b2-4e39-9805-010589d81caa"
             }
           ],
           "text": "29/02/2024\nPindah Buku 2418 2.3\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240229152860438899102",
           "paragraph_id": 46,
-          "uuid": "352ecdad-7b58-419a-9f14-abc3334e93c0",
+          "uuid": "7ca70957-9ffc-4df7-b369-22f3b9405d4f",
           "confidence": 0.9
         },
         {
@@ -15263,12 +15263,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6205874e-0667-43e0-a7a1-cbb31f507613"
+              "uuid": "375b49ad-286e-41b6-9b54-b7ab518e0886"
             }
           ],
           "text": "-",
           "paragraph_id": 47,
-          "uuid": "cf8fbe31-601a-420e-9719-742a92ddbed9",
+          "uuid": "6f579d01-c18c-4762-ac36-15bb256d4978",
           "confidence": 0.9
         },
         {
@@ -15329,7 +15329,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "94099d04-a25a-4b09-be6f-3c727f6f653d"
+              "uuid": "dc5d5609-e338-494b-88fa-f13f891b85fa"
             },
             {
               "bbox": [
@@ -15357,7 +15357,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "b1f368b3-2446-44e4-b120-dacf27a86ddf"
+              "uuid": "5ad1adb6-51a4-4777-ab99-7429a4d2a603"
             },
             {
               "bbox": [
@@ -15411,7 +15411,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "d7d49b86-ee9e-4bc3-ad79-e14545738b77"
+              "uuid": "5f818801-77ca-4fab-92d8-3c18580e5fd5"
             },
             {
               "bbox": [
@@ -15451,12 +15451,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "9e33cb6f-10f3-44f2-a895-f2d53e57a237"
+              "uuid": "c2d794fc-8f9f-4286-8c86-e1c1be56cba0"
             }
           ],
           "text": "1,500,000,000.00\n0.00\n11,006,779,386.75\n29/02/2024",
           "paragraph_id": 48,
-          "uuid": "0f63cf0b-d3b8-4d42-adae-35dcd98afb52",
+          "uuid": "4ed8ac5f-e896-4ea7-ab3d-1352b5a8efe3",
           "confidence": 0.9
         },
         {
@@ -15501,12 +15501,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b38caf38-2f27-4051-a07a-aa7b46ae59d0"
+              "uuid": "ca1b93f9-3bec-4a68-9720-1f1f581c524e"
             }
           ],
           "text": "15:35:43",
           "paragraph_id": 49,
-          "uuid": "da62a142-2285-4738-9fcc-8292941cc7c5",
+          "uuid": "1c62c8e1-ec34-4d67-b233-b40f1ef0ecf8",
           "confidence": 0.9
         },
         {
@@ -15555,7 +15555,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3f995d9d-5ed3-4179-a0f9-326c4ed48404"
+              "uuid": "40f02868-2305-40be-a8e8-293e1f91684b"
             },
             {
               "bbox": [
@@ -15615,7 +15615,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "5694bc83-98a0-439b-855c-416d2433c24a"
+              "uuid": "c699658c-ec38-4936-b8dd-b14784a44055"
             },
             {
               "bbox": [
@@ -15697,7 +15697,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "0ff1cf90-71da-4e47-81d7-b4a478ee3c9f"
+              "uuid": "d2a9d89f-4a8d-4499-b57f-81ddee38ae40"
             },
             {
               "bbox": [
@@ -15757,7 +15757,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "5c56982c-5b5f-47da-bc61-a7eb2985bbae"
+              "uuid": "3338cef5-2cec-4348-ada1-9ba497971cfc"
             },
             {
               "bbox": [
@@ -15823,12 +15823,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "ed184c0e-a55f-413a-88d6-65f528aa1502"
+              "uuid": "c4338237-5955-4ee4-bb87-40446fbb3dc7"
             }
           ],
           "text": "29/02/2024\nPindah Buku 4540 2.2\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240229152559846699102",
           "paragraph_id": 50,
-          "uuid": "6afdb98e-3b5b-4592-a7bd-fd896536a7a6",
+          "uuid": "ba8c8ea6-00c4-4a10-91cb-c649eadcd067",
           "confidence": 0.9
         },
         {
@@ -15859,12 +15859,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "816df481-3781-4056-956e-64fa21e589ee"
+              "uuid": "89ccedbb-fee3-4e0d-9a3a-578f730cb3f1"
             }
           ],
           "text": "-",
           "paragraph_id": 51,
-          "uuid": "16a6d608-3705-4f6c-9586-5f7520c9ee53",
+          "uuid": "4c192aa8-eec0-45a3-8a45-5ba2e172eed9",
           "confidence": 0.9
         },
         {
@@ -15925,7 +15925,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "abd825c9-2204-4fe7-9297-5787ccee10fb"
+              "uuid": "3b4cbe68-43ca-415e-a7ff-5abf1ddbe1d2"
             },
             {
               "bbox": [
@@ -15953,7 +15953,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "36a52bda-9267-4585-b4b7-d6bfc000104f"
+              "uuid": "70fa21a8-665c-4e7c-a8de-3753c3c7f3cd"
             },
             {
               "bbox": [
@@ -16005,7 +16005,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "b90ba544-2a91-4e4f-be77-cfbc245c387e"
+              "uuid": "949e41da-b14b-4215-90be-9a79d780ac94"
             },
             {
               "bbox": [
@@ -16045,12 +16045,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "0a53ba33-04ac-4e79-bd84-b9792e6564d8"
+              "uuid": "9cc79fdc-179d-4202-9d1c-9c25a4b527ae"
             }
           ],
           "text": "5,000,000,000.00\n0.00\n6,006,779,386.75\n29/02/2024",
           "paragraph_id": 52,
-          "uuid": "a25cbb63-ad01-4949-8342-bf57aad38ca9",
+          "uuid": "f8589213-d948-4788-9c98-d52c5c323de4",
           "confidence": 0.9
         },
         {
@@ -16095,12 +16095,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3c6128b3-1c60-41dd-882d-0d024eaed47a"
+              "uuid": "401cc781-0b36-4b8a-b168-690d4cc616a0"
             }
           ],
           "text": "16:53:47",
           "paragraph_id": 53,
-          "uuid": "241f2689-aca2-437f-a828-cdcbbc851c43",
+          "uuid": "7f05ad9d-0b1a-4d1a-93ed-a9ace87193b6",
           "confidence": 0.9
         },
         {
@@ -16149,7 +16149,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6a8eacea-5bf0-421e-b959-5752910c1d83"
+              "uuid": "aff5947d-b82a-4f90-998e-bdce3cc25293"
             },
             {
               "bbox": [
@@ -16209,7 +16209,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "3881418b-928b-4cbd-841a-44cd9f874840"
+              "uuid": "8a414a4f-d5f8-42a0-bb50-1ef519838ead"
             },
             {
               "bbox": [
@@ -16291,7 +16291,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "6d5aaed2-4a56-4a21-86ac-5cb16d055150"
+              "uuid": "cbe72772-c215-4db0-88b7-0f4677be450f"
             },
             {
               "bbox": [
@@ -16351,7 +16351,7 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "9c1b77c6-10fa-42b9-b40d-bc996d68b97c"
+              "uuid": "61ff9cfc-fec5-4457-835a-6b60415982f8"
             },
             {
               "bbox": [
@@ -16417,12 +16417,12 @@
               },
               "line_id": 5,
               "confidence": 0.9,
-              "uuid": "60c9ffc4-07e6-4026-8c37-35b185b1a4af"
+              "uuid": "4858f558-be8f-4365-8d03-d3666d2ef2c4"
             }
           ],
           "text": "29/02/2024\nPindah Buku 2418 2.4\nMCM InhouseTrf  KE METALIK BARA\nSINERGI Transfer Fee\n20240229164473949999102",
           "paragraph_id": 54,
-          "uuid": "9fdef854-ebda-4c58-9e0d-32c93b002faf",
+          "uuid": "b1adba02-c2d9-4676-ba53-bd5c21985033",
           "confidence": 0.9
         },
         {
@@ -16453,12 +16453,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "6a12cc35-b40c-4bf5-ac67-7a122a88f689"
+              "uuid": "ab0b1800-f406-44da-ac8c-6c5cc7b8dc61"
             }
           ],
           "text": "-",
           "paragraph_id": 55,
-          "uuid": "e19dd779-8c22-4cd9-9fd6-9ddd208a7ae4",
+          "uuid": "633274d9-6465-448e-a111-125cf6196441",
           "confidence": 0.9
         },
         {
@@ -16505,7 +16505,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "af45c326-a635-4a6a-802e-cfbb1a1db02f"
+              "uuid": "019d0bae-4bf5-4d86-aa4d-27c813b438fa"
             },
             {
               "bbox": [
@@ -16533,7 +16533,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "df99db27-8f31-471a-9653-1c1a98b47b37"
+              "uuid": "02735d36-357b-4b2d-b74d-ba911fd376b7"
             },
             {
               "bbox": [
@@ -16585,7 +16585,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "a1914d5b-457a-4da5-ba80-a213ce58bc6c"
+              "uuid": "cad91b3b-b461-433f-9cdb-715ae843ddfa"
             },
             {
               "bbox": [
@@ -16625,12 +16625,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "66c6c095-c5c8-4cea-9696-a604f08ff0e6"
+              "uuid": "217344bd-d8ad-4436-9ec3-a7ed84822dff"
             }
           ],
           "text": "25,000.00\n0.00\n6,006,754,386.75\n29/02/2024",
           "paragraph_id": 56,
-          "uuid": "86b500dc-c6ce-4e98-bc9e-3c5f2a034d4b",
+          "uuid": "81fa0f99-3703-4f1f-9c7a-22a4ca18045c",
           "confidence": 0.9
         },
         {
@@ -16675,12 +16675,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "1d1682cf-de76-4912-a886-af10aeb59565"
+              "uuid": "063a1deb-b61f-48f9-b039-c15de13189d4"
             }
           ],
           "text": "23:59:00",
           "paragraph_id": 57,
-          "uuid": "0d3dd0bd-f2fa-41b6-b62e-264b91e94946",
+          "uuid": "54b2740b-f437-4253-90cf-40012d127dbe",
           "confidence": 0.9
         },
         {
@@ -16729,7 +16729,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "f173a0eb-1881-471e-8744-eba7f39471e4"
+              "uuid": "b1941ad1-214d-4dba-8b09-0896151cdbb7"
             },
             {
               "bbox": [
@@ -16849,7 +16849,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "5668d3a0-1a1d-48e3-9d2c-3922377e719a"
+              "uuid": "cf3b4de0-3e4b-4802-b67a-a9d3c0cf5103"
             },
             {
               "bbox": [
@@ -16879,12 +16879,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "f51676bd-2a2a-4aea-bc45-b237ac53a946"
+              "uuid": "dd54abf1-d5c9-4983-b786-8338a799ec2a"
             }
           ],
           "text": "29/02/2024\n                                         Biaya Adm\n11000",
           "paragraph_id": 58,
-          "uuid": "7466d876-9958-456e-bb9f-e51808d51117",
+          "uuid": "7f47cfe7-466c-4476-ad0d-4a058a6a06cf",
           "confidence": 0.9
         },
         {
@@ -16915,12 +16915,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "2c1733a4-335a-4347-8eed-71756df0852d"
+              "uuid": "701d05f5-eb86-47a4-bf34-cf58e7f238cd"
             }
           ],
           "text": "-",
           "paragraph_id": 59,
-          "uuid": "86a3281e-e020-422d-9246-b554c8acbebb",
+          "uuid": "b956db30-362a-42b2-9ea5-e154aca40080",
           "confidence": 0.9
         },
         {
@@ -16957,7 +16957,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "5dabf2ed-098a-48b1-a331-2c971a70347a"
+              "uuid": "ebaff19f-8797-4185-85ff-c918c1303fc7"
             },
             {
               "bbox": [
@@ -17003,7 +17003,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "03d34214-f6f8-4ae0-b0f8-f8aabb29b535"
+              "uuid": "f80b729c-67c2-4aa2-b399-0f0e9a88ff31"
             },
             {
               "bbox": [
@@ -17055,7 +17055,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "cde9b1d1-32a7-49c5-a730-b958cfeadc51"
+              "uuid": "0c247a1d-ca2c-4ac1-88ed-228a0c38badf"
             },
             {
               "bbox": [
@@ -17095,12 +17095,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "2eb1a2d6-e580-483e-a177-cd91073be76b"
+              "uuid": "5be2b90e-927c-4bb7-863a-b394fba483b2"
             }
           ],
           "text": "0.00\n19,124,569.73\n6,025,878,956.48\n29/02/2024",
           "paragraph_id": 60,
-          "uuid": "658f6fef-8c55-4ab5-a738-8773029243a7",
+          "uuid": "c1bf18b0-0b7e-478b-9d3e-0c43a51a7e83",
           "confidence": 0.9
         },
         {
@@ -17145,12 +17145,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "86109d46-674a-4c64-bcbb-398c3ba19482"
+              "uuid": "c3c5429e-cda8-4024-8334-746e37e93dde"
             }
           ],
           "text": "23:59:00",
           "paragraph_id": 61,
-          "uuid": "2da6c67e-5067-4f38-a73d-a93e9a244775",
+          "uuid": "a7ec60d8-8200-4d99-8682-297ea942f619",
           "confidence": 0.9
         },
         {
@@ -17199,7 +17199,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "466daae9-ec8c-4e2f-a57b-e2e8d953fabc"
+              "uuid": "c24ca26a-bac3-4c7b-b850-6ddb0c292128"
             },
             {
               "bbox": [
@@ -17323,7 +17323,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "8d9dac57-c2c0-4db6-9db4-023656f3d5d3"
+              "uuid": "cf9f3bff-ea38-42da-a5c4-bfbc645d8a3a"
             },
             {
               "bbox": [
@@ -17345,12 +17345,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "95166b86-6dcf-481f-a579-caaca0dd032d"
+              "uuid": "25b23e32-97aa-4ece-b191-04dc3fdb085f"
             }
           ],
           "text": "29/02/2024\n                                         Bunga 11000\n-",
           "paragraph_id": 62,
-          "uuid": "79e60054-fcd0-441c-b23e-6b9e6acc9082",
+          "uuid": "0145c97c-26da-412c-92be-7d719babb3fa",
           "confidence": 0.9
         },
         {
@@ -17403,7 +17403,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "3a30458d-6e43-4033-bc93-af0b8faac7c3"
+              "uuid": "a80a55c5-9ece-4bb5-86e8-1b5bf3fce80f"
             },
             {
               "bbox": [
@@ -17431,7 +17431,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "c256db80-b5ce-4d44-b119-1afa9e36bd1e"
+              "uuid": "603143f4-74bd-4a80-b8a4-920b8e9badf8"
             },
             {
               "bbox": [
@@ -17483,7 +17483,7 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "26c75524-8ae2-4bb4-9d56-6609c42d7622"
+              "uuid": "d2f5f400-0d7d-42c8-ba38-cf29876bf42f"
             },
             {
               "bbox": [
@@ -17523,12 +17523,12 @@
               },
               "line_id": 4,
               "confidence": 0.9,
-              "uuid": "69c8b86c-8e4d-4b92-9cb0-5bdb73a2c2b3"
+              "uuid": "a447f499-ab42-415c-b668-1afc2a4423be"
             }
           ],
           "text": "3,824,913.95\n0.00\n6,022,054,042.53\n29/02/2024",
           "paragraph_id": 63,
-          "uuid": "69d2f003-0455-4ee3-b0c2-ebcd7298ff0d",
+          "uuid": "e75ff57d-7f28-4ff9-9e51-e575527c9b2e",
           "confidence": 0.9
         },
         {
@@ -17573,12 +17573,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "7fa260f7-2b53-46ab-881b-e8da31892a72"
+              "uuid": "f822fa0b-4eff-42f6-85c7-669d2afad2bf"
             }
           ],
           "text": "23:59:00",
           "paragraph_id": 64,
-          "uuid": "0ae8b725-3505-4667-b94d-e04c47d58ca7",
+          "uuid": "eed7f52b-0827-4a09-ba4d-36386fec4406",
           "confidence": 0.9
         },
         {
@@ -17627,7 +17627,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d8ee8293-0ffa-4274-9f1a-bfadce7337d2"
+              "uuid": "f5918b38-24d9-439d-a71f-e79fc0034b64"
             },
             {
               "bbox": [
@@ -17751,7 +17751,7 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "7f6dbbca-a62f-49a1-9136-6d63bce34397"
+              "uuid": "c38147fb-91c9-42ee-a167-e88f469f52ca"
             },
             {
               "bbox": [
@@ -17773,12 +17773,12 @@
               },
               "line_id": 3,
               "confidence": 0.9,
-              "uuid": "b1e2d83c-4475-4d35-9596-4bab9dfb278c"
+              "uuid": "fbff26e4-c9e8-475e-8efc-f04e1523436a"
             }
           ],
           "text": "29/02/2024\n                                         Pajak 11000\n-",
           "paragraph_id": 65,
-          "uuid": "52aff20a-c1de-4821-8923-ced3c391557a",
+          "uuid": "0ccad4c9-79ea-410a-8999-77644f041cb4",
           "confidence": 0.9
         },
         {
@@ -17829,12 +17829,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "839b1c1c-a53b-425a-b405-ede5bae368b1"
+              "uuid": "6f1e7b70-f205-49d3-a5c3-d0899c726db5"
             }
           ],
           "text": "Page 2 of 3",
           "paragraph_id": 66,
-          "uuid": "ab88daa0-ec9d-412e-a12b-c28523dfa67b",
+          "uuid": "f3c9d08a-36be-425b-a4ce-8b6f011a9741",
           "confidence": 0.9
         }
       ],
@@ -17904,12 +17904,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "d29430cf-4ed7-4bbe-bccb-add1e3328942"
+              "uuid": "13288060-8a56-4f1b-86f9-01e8f8ad1503"
             }
           ],
           "text": "  No of Debit",
           "paragraph_id": 1,
-          "uuid": "3244a8d9-98a0-4b5b-8c7f-aa51b6ab6f7e",
+          "uuid": "829357f9-062f-4b48-b7f7-77cb33e5741c",
           "confidence": 0.9
         },
         {
@@ -17982,12 +17982,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "e8140df5-cac6-4261-9b94-51fa63facde0"
+              "uuid": "ed747124-5fe3-4f60-ae83-e686659601be"
             }
           ],
           "text": "  Total Amount Debited",
           "paragraph_id": 2,
-          "uuid": "f357a63f-e4d2-4fb4-b3a9-b6d0ffaa3af6",
+          "uuid": "f4185292-ece0-4882-aa01-4e11a4a4d158",
           "confidence": 0.9
         },
         {
@@ -18044,12 +18044,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "e77b6d71-2b97-45c9-8853-2c7b1020ca51"
+              "uuid": "011a481a-4787-4c73-804b-dac31cb3f5bb"
             }
           ],
           "text": "  No of Credit",
           "paragraph_id": 3,
-          "uuid": "fd429858-2775-4ac4-877e-926f39fb0a5f",
+          "uuid": "3ca5f0ce-018a-4291-8c07-135a54b82fe0",
           "confidence": 0.9
         },
         {
@@ -18124,12 +18124,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "c2032157-2cf3-4808-b895-0039b46139de"
+              "uuid": "7cd5d3a0-88da-45df-b189-27e1534bedb8"
             }
           ],
           "text": "  Total Amount Credited",
           "paragraph_id": 4,
-          "uuid": "83a2d22b-3a7b-4229-8587-42f094e3429c",
+          "uuid": "337452f0-2600-4d76-b252-f95b1de1e4ff",
           "confidence": 0.9
         },
         {
@@ -18162,12 +18162,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "fd8fc789-4599-42a2-80a0-aa1e17c4ff3f"
+              "uuid": "d6779204-1a8c-408c-8565-adf52f5d7705"
             }
           ],
           "text": "17",
           "paragraph_id": 5,
-          "uuid": "43854ff9-8e00-4688-a24d-a7d3b9a998ef",
+          "uuid": "87acc500-b70d-496b-875b-c5ec2b739393",
           "confidence": 0.9
         },
         {
@@ -18230,12 +18230,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "b863f28c-d509-414c-a45d-c68f5d55e21b"
+              "uuid": "33c1cd70-6ac7-4ed1-ae4a-afce219ca9d4"
             }
           ],
           "text": "21,103,959,913.95",
           "paragraph_id": 6,
-          "uuid": "2a237092-a610-4518-b83c-e5027789e9be",
+          "uuid": "ac06de25-3385-4686-8ef4-54fa76c1ce33",
           "confidence": 0.9
         },
         {
@@ -18298,12 +18298,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "46cc10b4-9534-43d5-89bb-5fc51344267f"
+              "uuid": "a0baa0b2-c6c9-42ff-93d0-8edcb897c405"
             }
           ],
           "text": "20,127,964,595.73",
           "paragraph_id": 7,
-          "uuid": "22c31e1a-1016-478f-a107-14b5a5233be5",
+          "uuid": "96714742-ffef-4e05-bd24-66870fb32d56",
           "confidence": 0.9
         },
         {
@@ -18336,12 +18336,12 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "c141735a-03f4-4f1b-990f-be2831b8d5b3"
+              "uuid": "63325b8b-8629-4af6-a04a-a33afae6d6ba"
             }
           ],
           "text": "10",
           "paragraph_id": 8,
-          "uuid": "ad4593b9-e58a-48d8-96ce-fc8940f9e081",
+          "uuid": "c854175b-8fbf-4e7d-ad6a-61877f5582c8",
           "confidence": 0.9
         },
         {
@@ -18404,7 +18404,7 @@
               },
               "line_id": 1,
               "confidence": 0.9,
-              "uuid": "1187afbd-14a7-4c48-a142-d6e2275237c3"
+              "uuid": "f01834be-95d1-4383-a6a2-78fb91107311"
             },
             {
               "bbox": [
@@ -18456,12 +18456,12 @@
               },
               "line_id": 2,
               "confidence": 0.9,
-              "uuid": "a7ad0907-48c7-476c-9c63-de3c150d2757"
+              "uuid": "23c792b0-a34d-40ab-84c0-786674fe0562"
             }
           ],
           "text": "  Closing Balance\n6,022,054,042.53",
           "paragraph_id": 9,
-          "uuid": "93bac8c4-f973-46d0-8783-9969a748fad8",
+          "uuid": "572b406b-8d16-4546-8f48-d243c5c75ee6",
           "confidence": 0.9
         }
       ],

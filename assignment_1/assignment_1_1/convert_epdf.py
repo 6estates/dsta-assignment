@@ -1,3 +1,4 @@
+import io
 import json
 import pathlib
 import re
@@ -172,24 +173,21 @@ def remove_dir_outliner(words, threshold=3):
         return words
 
 
-def pymupdf_transform_to_idp_format(file_path):
-    doc = fitz.open(pathlib.Path(file_path))
+def pymupdf_transform_to_idp_format(pdf_bin):
+    buf = io.BytesIO(pdf_bin)
+    doc = fitz.Document(stream=buf, filetype='pdf')
     pages = []
     map_type_to_names = {
         0: 'text',
         1: 'image'
     }
-
-
     for page_id, page in enumerate(doc):
         page_blocks = extract_page_blocks(doc.load_page(page_id))
         groups = pydash.group_by([b['bbox'] + (b['type'],) for b in page_blocks], 4)
         blocks_by_type = {map_type_to_names[k]: len(v) for k, v in groups.items()}
         if blocks_by_type.get('text', 0) <= 0:
-            # no action required
             pages.append(None)
             continue
-
         paragraphs = []
         for paragraph in dump_paragraphs(page_blocks):
             paragraphs.append(paragraph)
@@ -201,20 +199,21 @@ def pymupdf_transform_to_idp_format(file_path):
     return {"pages": pages}
 
 
-def convert_e_pdf(pdf_path):
-    pymupdf_convert_result = pymupdf_transform_to_idp_format(pdf_path)
+def convert_e_pdf(pdf_bin):
+    pymupdf_convert_result = pymupdf_transform_to_idp_format(pdf_bin)
     text_rotation_result = final_idp_doc(pymupdf_convert_result)
     return text_rotation_result
 
 
 if __name__ == "__main__":
     dataset_dir = pathlib.Path(__file__).parents[1]
-    input_path = 'assignment_1_1/test data/epdf_sample.pdf'
+    input_path = 'assignment_1_1/data/epdf_sample.pdf'
     pdf_path = dataset_dir / input_path
-    save_path = 'assignment_1_1/test data/epdf_sample'
+    save_path = 'assignment_1_1/data/epdf_sample'
     test_file = dataset_dir / f'{save_path}.json'
 
-    result = convert_e_pdf(pdf_path)
+    pdf_bin = pdf_path.read_bytes()
+    result = convert_e_pdf(pdf_bin)
     with open(test_file, 'w') as f:
         json.dump(result, f, indent=2)
 
