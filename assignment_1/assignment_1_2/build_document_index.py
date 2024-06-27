@@ -1,5 +1,5 @@
 import pydash
-from assignment_1.assignment_1_1 import convert_scanned_pdf
+from assignment_1.assignment_1_1.convert_scanned_pdf import convert_scanned_pdf
 from assignment_1.assignment_1_1.convert_epdf import convert_e_pdf
 from assignment_1.assignment_1_1.data_chunk import create_document_string
 from assignment_1.assignment_1_2.hybrid_db import setup_hybrid_db
@@ -33,7 +33,7 @@ def build_document_index(pdf_bin, table_name, converter_engine, milvus_openai_em
             if converter_engine == 'PYMUPDF':
                 one_idp_doc = convert_e_pdf(pdf_bin)
             else:
-                one_idp_doc = convert_scanned_pdf.py
+                one_idp_doc = convert_scanned_pdf(pdf_bin)
 
             file_pages = pydash.get(one_idp_doc, ['pages'])
             if not file_pages:

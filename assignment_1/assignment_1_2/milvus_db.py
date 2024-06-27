@@ -199,7 +199,7 @@ class MilvusDB(BaseDB):
 
 
 def create_embedding(milvus_openai_embedding_enabled, model_name='text-embedding-ada-002'):
-    # milvus_openai_embedding_enabled_cv.set(False)  # for testing
+    #TODO: add extra embedding method
     if milvus_openai_embedding_enabled and MILVUS_OPENAI_KEY:
         embeddings = OpenAIEmbeddings(openai_api_key=MILVUS_OPENAI_KEY, model=model_name)
     else:
