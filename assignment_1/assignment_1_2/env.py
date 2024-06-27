@@ -1,0 +1,5 @@
+MILVUS_HOST = '192.168.1.83'
+MILVUS_PORT = '19530'
+MILVUS_OPENAI_KEY = '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'
+ES_URL = 'https://elastic:admin%40onp1024@es-onp.6estates.com/'
+MILVUS_DATABASE = 'jsonfiledb'
