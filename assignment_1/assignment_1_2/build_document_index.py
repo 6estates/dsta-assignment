@@ -59,13 +59,13 @@ def build_document_index(pdf_bin, table_name, converter_engine, milvus_openai_em
 
 if __name__ == "__main__":
     # try building index with financial statement files
-    import json
-    from pathlib import Path
-
-    file_data = json.loads(Path("path-to—pdf-file").read_text())
+    import pathlib
+    data_path = pathlib.Path(__file__).parents[0] / 'data'
+    pdf_file_path = data_path / 'ATSAR2023+bursa.pdf'
+    pdf_bin = pdf_file_path.read_bytes()
     table_name = "jsontable11"
     converter_engine = 'PYMUPDF'
-    build_status = build_document_index(file_data, table_name, converter_engine)
+    build_status = build_document_index(pdf_bin, table_name, converter_engine, overwrite=True)
     print(build_status)
 
 

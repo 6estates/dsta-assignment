@@ -17,6 +17,7 @@ class CustomMilvus(Milvus):
     """
     Supports plain query search.
     """
+
     def field_query(self, expr):
         # Determine result metadata fields.
         output_fields = self.fields[:]
@@ -98,7 +99,7 @@ class MilvusDB(BaseDB):
         return search_results
 
     def search_only(
-        self, query: str, top_k: int = 2, from_id: Optional[int] = None, to_id: Optional[int] = None
+            self, query: str, top_k: int = 2, from_id: Optional[int] = None, to_id: Optional[int] = None
     ) -> List[Document]:
         """
         search with query in page range
@@ -120,7 +121,7 @@ class MilvusDB(BaseDB):
         return search_results
 
     def select(
-        self, ids: List[int], sort_results: bool = True, from_id: Optional[int] = None, to_id: Optional[int] = None
+            self, ids: List[int], sort_results: bool = True, from_id: Optional[int] = None, to_id: Optional[int] = None
     ):
         """
         select based on page range
@@ -199,7 +200,7 @@ class MilvusDB(BaseDB):
 
 
 def create_embedding(milvus_openai_embedding_enabled, model_name='text-embedding-ada-002'):
-    #TODO: add extra embedding method
+    # TODO: 1. check default model name 2.add extra embedding method
     if milvus_openai_embedding_enabled and MILVUS_OPENAI_KEY:
         embeddings = OpenAIEmbeddings(openai_api_key=MILVUS_OPENAI_KEY, model=model_name)
     else:
@@ -219,7 +220,7 @@ def get_milvus_collection_name(collection_name, embedding=None, embedding_name=N
 
 @contextmanager
 def setup_milvus_db(
-    milvus_host, milvus_port, database, table_name, embedding, overwrite=True
+        milvus_host, milvus_port, database, table_name, embedding, overwrite=True
 ) -> ContextManager[MilvusDB]:
     connections.connect(host=milvus_host, port=milvus_port, db_name=database)
 
@@ -237,30 +238,36 @@ if __name__ == "__main__":
     from assignment_1.assignment_1_1.data_chunk import create_document_string
     import json
     import pydash
-    from pathlib import Path
-    file_data = json.loads(Path("path-to—idp-doc-file").read_text())
-    table_name = "jsontable11"
-    milvus_openai_embedding_enabled = False
+    import pathlib
 
-    embeddings = create_embedding(milvus_openai_embedding_enabled)
+    data_path = pathlib.Path(__file__).parents[0] / 'data'
+    pdf_file_path = data_path / 'ATSAR2023+bursa.json'
+    file_data = json.loads(pdf_file_path.read_text())
+    table_name = "jsontable11"
+    model_name = embedding_name = 'text-embedding-3-large'
+    embeddings = create_embedding(True, model_name=model_name)
     with setup_milvus_db(
-        milvus_host=MILVUS_HOST,
-        milvus_port=MILVUS_PORT,
-        database=MILVUS_DATABASE,
-        table_name=table_name,
-        embedding=embeddings,
-        overwrite=True,
+            milvus_host=MILVUS_HOST,
+            milvus_port=MILVUS_PORT,
+            database=MILVUS_DATABASE,
+            table_name=table_name,
+            embedding=embeddings,
+            overwrite=True,
     ) as milvus_db:
+        # check the status if necessary
+        status = milvus_db.get_setup_status()
         milvus_doc = []
-        pages = pydash.get(file_data, ["files", 0, "pages"])
+        pages = pydash.get(file_data, ["files", 0, "pages"]) or pydash.get(file_data, ["pages"])
         file_by_page = pydash.key_by(pages, "page")
         for page_id, page in file_by_page.items():
             if not len(page["paragraphs"]):
                 continue
             raw_doc = create_document_string(page, prefix="", connector=" ")
-            milvus_doc.append(Document(page_content=raw_doc[: milvus_db.langchain_text_len]))
+            milvus_doc.append(Document(page_content=raw_doc, metadata={'page': page_id}))
+        # building index based on file content
         milvus_db.insert_documents(milvus_doc)
+        # query with sample questions
         results = milvus_db.search(
-            query="SAMPLE QUERY", top_k=3
+            query="how many shares has been issued during the financial year", top_k=3
         )
         print(results[0])
