@@ -59,10 +59,10 @@ def convert_scanned_pdf(pdf_path):
 
 
 if __name__ == "__main__":
-    dataset_dir = pathlib.Path(__file__).parents[2]
-    input_path = 'test data/testocr.png'
+    dataset_dir = pathlib.Path(__file__).parents[1]
+    input_path = 'assignment_1_1/test data/scanned_pdf_sample.pdf'
     pdf_path = dataset_dir / input_path
-    save_path = 'test result/testocr'
+    save_path = 'assignment_1_1/test data/scanned_pdf_sample'
     test_file = dataset_dir / f'{save_path}.json'
     result = convert_scanned_pdf(pdf_path)
     with open(test_file, 'w') as f:

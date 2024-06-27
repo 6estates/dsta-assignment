@@ -208,10 +208,10 @@ def convert_e_pdf(pdf_path):
 
 
 if __name__ == "__main__":
-    dataset_dir = pathlib.Path(__file__).parents[2]
-    input_path = 'datasets/features/convert/ms_angle/September+2022.pdf'
+    dataset_dir = pathlib.Path(__file__).parents[1]
+    input_path = 'assignment_1_1/test data/epdf_sample.pdf'
     pdf_path = dataset_dir / input_path
-    save_path = 'datasets/features/convert/ms_angle/pytest result/September+2022'
+    save_path = 'assignment_1_1/test data/epdf_sample'
     test_file = dataset_dir / f'{save_path}.json'
 
     result = convert_e_pdf(pdf_path)
