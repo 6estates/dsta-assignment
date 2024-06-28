@@ -107,7 +107,7 @@ def create_document_string(page, prefix='### Input:\n\n', connector='\t', simple
      2.Returns a string by simply join all the paragraphs together.
     """
     document = prefix
-    if not simple_join:
+    if not simple_join:  # TODO: cons and pros of handling information at page level?
         row_data, _, space_width = arrange_rows(page['paragraphs'], connector=connector)
         page_edge_x0 = min([row['bbox'][0] for row in row_data])
         avg_space_width = 7

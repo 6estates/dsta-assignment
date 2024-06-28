@@ -7,6 +7,8 @@ from langchain.schema.document import Document
 from langchain.vectorstores import Milvus
 from pymilvus import Collection, FieldSchema, DataType, CollectionSchema, connections
 from pymilvus.orm import utility
+import pathlib
+from assignment_1.assignment_1_2.BgeEmbeddings import LocalBgeEmbeddings
 from env import MILVUS_HOST, MILVUS_PORT, MILVUS_OPENAI_KEY, MILVUS_DATABASE
 from base_db import BaseDB
 
@@ -144,7 +146,7 @@ class MilvusDB(BaseDB):
         return utility.has_collection(self.collection_name)
 
     def get_embedding_dim(self):
-        if isinstance(self.embedding, FakeEmbeddings):
+        if isinstance(self.embedding, FakeEmbeddings) or isinstance(self.embedding, LocalBgeEmbeddings):
             return self.embedding.size
 
         dim_map = {
@@ -200,8 +202,12 @@ class MilvusDB(BaseDB):
 
 
 def create_embedding(milvus_openai_embedding_enabled, model_name='text-embedding-ada-002'):
-    # TODO: 1. check default model name 2.add extra embedding method
-    if milvus_openai_embedding_enabled and MILVUS_OPENAI_KEY:
+    # TODO: check default model name
+    if model_name == 'BgeEmbeddings':
+        # TODO: write a README file to notify: put the model folder under the assignment_1_2 before using BgeEmbeddings
+        model_path = pathlib.Path(__file__).parents[0] / 'bge-small-en'
+        embeddings = LocalBgeEmbeddings(model_path=model_path)
+    elif milvus_openai_embedding_enabled and MILVUS_OPENAI_KEY:
         embeddings = OpenAIEmbeddings(openai_api_key=MILVUS_OPENAI_KEY, model=model_name)
     else:
         embeddings = FakeEmbeddings(size=1536)
@@ -238,14 +244,20 @@ if __name__ == "__main__":
     from assignment_1.assignment_1_1.data_chunk import create_document_string
     import json
     import pydash
-    import pathlib
 
     data_path = pathlib.Path(__file__).parents[0] / 'data'
     pdf_file_path = data_path / 'ATSAR2023+bursa.json'
     file_data = json.loads(pdf_file_path.read_text())
+
+    # for openAI embeddings
     table_name = "jsontable11"
-    model_name = embedding_name = 'text-embedding-3-large'
-    embeddings = create_embedding(True, model_name=model_name)
+    embedding_name = 'text-embedding-3-large'
+
+    # for BgeEmbeddings
+    # table_name = 'jsontable_bgeembedding'
+    # embedding_nname = 'BgeEmbeddings'
+
+    embeddings = create_embedding(True, model_name=embedding_name)
     with setup_milvus_db(
             milvus_host=MILVUS_HOST,
             milvus_port=MILVUS_PORT,
