@@ -1,4 +1,5 @@
 import logging
+import os
 from contextlib import contextmanager
 from typing import ContextManager, List, Any, Optional
 from langchain.embeddings import FakeEmbeddings
@@ -201,12 +202,14 @@ class MilvusDB(BaseDB):
         return "success"
 
 
-def create_embedding(milvus_openai_embedding_enabled, model_name='text-embedding-ada-002'):
-    # TODO: check default model name
+def create_embedding(milvus_openai_embedding_enabled, model_name='BgeEmbeddings'):
     if model_name == 'BgeEmbeddings':
         # TODO: write a README file to notify: put the model folder under the assignment_1_2 before using BgeEmbeddings
         model_path = pathlib.Path(__file__).parents[0] / 'bge-small-en'
-        embeddings = LocalBgeEmbeddings(model_path=model_path)
+        if not os.path.exists(model_path) or not os.path.isdir(model_path):
+            raise FileNotFoundError("Folder 'bge-small-en' is not found. Please put 'bge-small-en' under 'assignment_1/assignment_1_2/'")
+
+        embeddings = LocalBgeEmbeddings(model_path=str(model_path))
     elif milvus_openai_embedding_enabled and MILVUS_OPENAI_KEY:
         embeddings = OpenAIEmbeddings(openai_api_key=MILVUS_OPENAI_KEY, model=model_name)
     else:

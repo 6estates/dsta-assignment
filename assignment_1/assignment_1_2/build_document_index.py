@@ -10,7 +10,7 @@ from connexion.exceptions import BadRequestProblem
 
 
 def build_document_index(pdf_bin, table_name, converter_engine, milvus_openai_embedding_enabled=True,
-                         embedding_name='text-embedding-3-large', overwrite=False):
+                         embedding_name='BgeEmbeddings', overwrite=False):
 
     embeddings = create_embedding(milvus_openai_embedding_enabled, embedding_name)
     try:
@@ -65,12 +65,12 @@ if __name__ == "__main__":
     pdf_bin = pdf_file_path.read_bytes()
 
     # for local embedding model BgeEmbedding
-    # table_name = "jsontable_bgeembedding"
-    # embedding_name = 'BgeEmbeddings'
+    table_name = "jsontable_bgeembedding"
+    embedding_name = 'BgeEmbeddings'
 
     # for openAI embedding
-    table_name = "jsontable11"
-    embedding_name = 'text-embedding-3-large'
+    # table_name = "jsontable11"
+    # embedding_name = 'text-embedding-3-large'
 
     converter_engine = 'PYMUPDF'
     build_status = build_document_index(pdf_bin, table_name, converter_engine, embedding_name=embedding_name, overwrite=True)
