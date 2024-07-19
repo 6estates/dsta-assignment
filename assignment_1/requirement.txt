@@ -1,0 +1,16 @@
+pandas==1.2.4
+numpy==1.24.4
+Pillow==7.1.2
+PyMuPDF==1.22.5
+pytesseract==0.3.6
+sentence-transformers==2.2.2
+langchain==0.0.308
+elasticsearch==7.10.1
+pymilvus==2.2.15
+tiktoken==0.7.0
+pydash==4.9.0
+connexion==2.7.0
+openapi-spec-validator==0.4.0
+jsonschema==3.2.0
+Flask==2.0.3
+openai==0.27.6
