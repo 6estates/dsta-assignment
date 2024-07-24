@@ -168,7 +168,7 @@ class RAGPipeline:
     
 
 if __name__ == '__main__':
-    _url = 'YOUR URL'
+    _url = 'http://10.12.0.12:8000/v1'
     _key = 'YOUR OPENAI_API_KEY'
     _google_key = 'YOUR GOOGLE_KEY'
     _google_cx = 'YOUR GOOGLE_CX'
