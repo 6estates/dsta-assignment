@@ -78,6 +78,8 @@ def build_document_index(pdf_bin, table_name, converter_engine, milvus_openai_em
 **Step 2:** Rename `ATSAR2023+bursa` under the main function to the document name that you want to build index.   
 **Step 3:** Run the main function. 
 
+Note: you might need to update your python path accordingly use `export PYTHONPATH=.:..:../..`
+
 ```Python
 if __name__ == "__main__":
     import pathlib
